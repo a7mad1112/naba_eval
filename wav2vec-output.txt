@@ -1,0 +1,1708 @@
+🎙️ Reciter: an-naba-ibrahem dussary
+  0%|          | 0/40 [00:00<?, ?it/s]Current working directory: /content
+Accessing file: ./an-naba/an-naba-ibrahem dussary/1.mp3
+  2%|▎         | 1/40 [00:07<04:59,  7.68s/it]
+📌 Ayah 1
+✅ Reference : عَمَّ يَتَسَاءَلُونَ
+🧠 Predicted : عمم يدإسا ا لها ها ماإلومه المهمهون
+📉 WER       : 350.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ibrahem dussary/2.mp3
+  5%|▌         | 2/40 [00:14<04:29,  7.10s/it]
+📌 Ayah 2
+✅ Reference : عَنِ النَّبَإِ الْعَظِيمِ
+🧠 Predicted : عَنَِّظَ اِنٌ الٌعَاضِي
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ibrahem dussary/3.mp3
+  8%|▊         | 3/40 [00:21<04:21,  7.07s/it]
+📌 Ayah 3
+✅ Reference : الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ
+🧠 Predicted : عَلَّابِي هُمٌ فِيهِ مَُخٌتَالِفمُونَ
+📉 WER       : 75.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ibrahem dussary/4.mp3
+ 10%|█         | 4/40 [00:26<03:39,  6.10s/it]
+📌 Ayah 4
+✅ Reference : كَلَّا سَيَعْلَمُونَ
+🧠 Predicted : كَعَنمَّا سَايَا عَسٌلَهُ
+📉 WER       : 150.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ibrahem dussary/5.mp3
+ 12%|█▎        | 5/40 [00:33<03:50,  6.60s/it]
+📌 Ayah 5
+✅ Reference : ثُمَّ كَلَّا سَيَعْلَمُونَ
+🧠 Predicted : ثمكني اللا سايعلموان هن هي مهيون
+📉 WER       : 200.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ibrahem dussary/6.mp3
+ 15%|█▌        | 6/40 [00:37<03:18,  5.84s/it]
+📌 Ayah 6
+✅ Reference : أَلَمْ نَجْعَلِ الْأَرْضَ مِهَادًا
+🧠 Predicted : عالم نجعال لى رضَانِهاا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ibrahem dussary/7.mp3
+ 18%|█▊        | 7/40 [00:41<02:49,  5.14s/it]
+📌 Ayah 7
+✅ Reference : وَالْجِبَالَ أَوْتَادًا
+🧠 Predicted : وَالنٌجِبَا لَعَهُ َادَا
+📉 WER       : 150.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ibrahem dussary/8.mp3
+ 20%|██        | 8/40 [00:48<03:02,  5.71s/it]
+📌 Ayah 8
+✅ Reference : وَخَلَقْنَاكُمْ أَزْوَاجًا
+🧠 Predicted : وَخَالَ بعنَاكُمإَزوَاجَا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ibrahem dussary/9.mp3
+ 22%|██▎       | 9/40 [00:53<02:46,  5.38s/it]
+📌 Ayah 9
+✅ Reference : وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا
+🧠 Predicted : وَجَعَلٌنَانَهُ مَكُنٌ سُبَاتَا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ibrahem dussary/10.mp3
+ 25%|██▌       | 10/40 [00:58<02:42,  5.40s/it]
+📌 Ayah 10
+✅ Reference : وَجَعَلْنَا اللَّيْلَ لِبَاسًا
+🧠 Predicted : وَجَاعا مَلَلَلِبَاسَا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ibrahem dussary/11.mp3
+ 28%|██▊       | 11/40 [01:03<02:33,  5.31s/it]
+📌 Ayah 11
+✅ Reference : وَجَعَلْنَا النَّهَارَ مَعَاشًا
+🧠 Predicted : وَجَاعَ لٌنَ َّ هَرَنَاعَا جَا
+📉 WER       : 166.67%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ibrahem dussary/12.mp3
+ 30%|███       | 12/40 [01:11<02:46,  5.94s/it]
+📌 Ayah 12
+✅ Reference : وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا
+🧠 Predicted : وَبَانَا ٌنَا فَاوٌغَكُم نسَبَاعاجبَادَا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ibrahem dussary/13.mp3
+ 32%|███▎      | 13/40 [01:17<02:42,  6.01s/it]
+📌 Ayah 13
+✅ Reference : وَجَعَلْنَا سِرَاجًا وَهَّاجًا
+🧠 Predicted : وَجَاعَلٌنَاصِرَاجَعوَهَا جَا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ibrahem dussary/14.mp3
+ 35%|███▌      | 14/40 [01:28<03:16,  7.54s/it]
+📌 Ayah 14
+✅ Reference : وَأَنْزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجًا
+🧠 Predicted : وَإَنزَلٌنَانِنَ الٌمُرٌصِيرَا فِمَاَفَََََا عَ فَدَّاجَا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ibrahem dussary/15.mp3
+ 38%|███▊      | 15/40 [01:33<02:52,  6.88s/it]
+📌 Ayah 15
+✅ Reference : لِنُخْرِجَ بِهِ حَبًّا وَنَبَاتًا
+🧠 Predicted : لِنُخٌرِجَ بِهِ هَبَّهُ وَنَبَاتا
+📉 WER       : 75.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ibrahem dussary/16.mp3
+ 40%|████      | 16/40 [01:39<02:35,  6.47s/it]
+📌 Ayah 16
+✅ Reference : وَجَنَّاتٍ أَلْفَافًا
+🧠 Predicted : وَجَعاَّاتِينَا الٌفَافَا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ibrahem dussary/17.mp3
+ 42%|████▎     | 17/40 [01:44<02:21,  6.13s/it]
+📌 Ayah 17
+✅ Reference : إِنَّ يَوْمَ الْفَصْلِ كَانَ مِيقَاتًا
+🧠 Predicted : اننَا يَرمَ الٌفَصٌلِ كَانَ لِي بَاَا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ibrahem dussary/18.mp3
+ 45%|████▌     | 18/40 [01:52<02:27,  6.71s/it]
+📌 Ayah 18
+✅ Reference : يَوْمَ يُنفَخُ فِي الصُّورِ فَتَأْتُونَ أَفْوَاجًا
+🧠 Predicted : يَوٌمَا يُنٌفَخُ فِر الصُّورِ فَدَاتُهُنَا إَفٌرَا جَا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ibrahem dussary/19.mp3
+ 48%|████▊     | 19/40 [01:59<02:23,  6.82s/it]
+📌 Ayah 19
+✅ Reference : وَفُتِحَتِ السَّمَاءُ فَكَانَتْ أَبْوَابًا
+🧠 Predicted : وافد ضيحادي السمعيانامر فكان إاب غابا
+📉 WER       : 150.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ibrahem dussary/20.mp3
+ 50%|█████     | 20/40 [02:05<02:13,  6.65s/it]
+📌 Ayah 20
+✅ Reference : وَسُيِّرَتِ الْجِبَالُ فَكَانَتْ سَرَابًا
+🧠 Predicted : وَصُنِرَِ الزِبَال فَكَانَت سّرَابَا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ibrahem dussary/21.mp3
+ 52%|█████▎    | 21/40 [02:12<02:04,  6.55s/it]
+📌 Ayah 21
+✅ Reference : إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا
+🧠 Predicted : انمَا جَاهَاَّمَا كَانَتٌ لِلرٌفَادَا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ibrahem dussary/22.mp3
+ 55%|█████▌    | 22/40 [02:18<01:54,  6.35s/it]
+📌 Ayah 22
+✅ Reference : لِلطَّاغِينَ مَآبًا
+🧠 Predicted : مِطَارِيِنَا مَعٌعَالَحَبَاا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ibrahem dussary/23.mp3
+ 57%|█████▊    | 23/40 [02:24<01:46,  6.29s/it]
+📌 Ayah 23
+✅ Reference : لَابِثِينَ فِيهَا أَحْقَابًا
+🧠 Predicted : لَا بِزِيٌ نَفِيهِ هَالََلَا إَحٌقُغَبَا
+📉 WER       : 166.67%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ibrahem dussary/24.mp3
+ 60%|██████    | 24/40 [02:31<01:46,  6.66s/it]
+📌 Ayah 24
+✅ Reference : لَا يَذُوقُونَ فِيهَا بَرْدًا وَلَا شَرَابًا
+🧠 Predicted : لا يعنهون فيها بروناهم ولا شرابا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ibrahem dussary/25.mp3
+ 62%|██████▎   | 25/40 [02:36<01:31,  6.11s/it]
+📌 Ayah 25
+✅ Reference : إِلَّا حَمِيمًا وَغَسَّاقًا
+🧠 Predicted : اِلَّا حَلِيمَاهُ وَغَزَاغَى
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ibrahem dussary/26.mp3
+ 65%|██████▌   | 26/40 [02:42<01:26,  6.14s/it]
+📌 Ayah 26
+✅ Reference : جَزَاءً وِفَاقًا
+🧠 Predicted : جَزَاهََا غَإَهُمٌ ورِفٌعَقَا
+📉 WER       : 150.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ibrahem dussary/27.mp3
+ 68%|██████▊   | 27/40 [02:48<01:16,  5.92s/it]
+📌 Ayah 27
+✅ Reference : إِنَّهُمْ كَانُوا لَا يَرْجُونَ حِسَابًا
+🧠 Predicted : اِنَّهُمٌ كَانُو لَا يَلرُجُومنَ حِسَابا
+📉 WER       : 80.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ibrahem dussary/28.mp3
+ 70%|███████   | 28/40 [02:55<01:15,  6.32s/it]
+📌 Ayah 28
+✅ Reference : وَكَذَّبُوا بِآيَاتِنَا كِذَّابًا
+🧠 Predicted : وَكََابُو بِآَ يَرادِينَاك َابَا
+📉 WER       : 133.33%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ibrahem dussary/29.mp3
+ 72%|███████▎  | 29/40 [03:01<01:08,  6.19s/it]
+📌 Ayah 29
+✅ Reference : وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ كِتَابًا
+🧠 Predicted : وَظُلٌ لَشَايٌ عِنَحٌصَيٌيٌنَاهُ هِدَابَا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ibrahem dussary/30.mp3
+ 75%|███████▌  | 30/40 [03:11<01:12,  7.22s/it]
+📌 Ayah 30
+✅ Reference : فَذُوقُوا فَلَنْ نَزِيدَكُمْ إِلَّا عَذَابًا
+🧠 Predicted : فَُم قُوفَلا مَازِيدَكُوهُواِلَا عََا بَا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ibrahem dussary/31.mp3
+ 78%|███████▊  | 31/40 [03:16<00:59,  6.60s/it]
+📌 Ayah 31
+✅ Reference : إِنَّ لِلْمُتَّقِينَ مَفَازًا
+🧠 Predicted : انَّ لِلٌمُد زَغِينَ مَا فَازَا
+📉 WER       : 166.67%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ibrahem dussary/32.mp3
+ 80%|████████  | 32/40 [03:22<00:52,  6.62s/it]
+📌 Ayah 32
+✅ Reference : حَدَائِقَ وَأَعْنَابًا
+🧠 Predicted : حَدَاَثَا لََاعِيبَاغَ إَعٌنَابا
+📉 WER       : 150.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ibrahem dussary/33.mp3
+ 82%|████████▎ | 33/40 [03:26<00:39,  5.68s/it]
+📌 Ayah 33
+✅ Reference : وَكَوَاعِبَ أَتْرَابًا
+🧠 Predicted : وَكَوَاعِبَاأَ اترَابَا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ibrahem dussary/34.mp3
+ 85%|████████▌ | 34/40 [03:30<00:31,  5.23s/it]
+📌 Ayah 34
+✅ Reference : وَكَأْسًا دِهَاقًا
+🧠 Predicted : وَكَإٌسَن بِهَا قَا
+📉 WER       : 150.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ibrahem dussary/35.mp3
+ 88%|████████▊ | 35/40 [03:38<00:30,  6.08s/it]
+📌 Ayah 35
+✅ Reference : لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا كِذَّابًا
+🧠 Predicted : لَا يَصٌنَ عُونَ فِيهَا لَا هُمٌ وَُ وَلَاكِ َابَا
+📉 WER       : 116.67%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ibrahem dussary/36.mp3
+ 90%|█████████ | 36/40 [03:50<00:30,  7.75s/it]
+📌 Ayah 36
+✅ Reference : جَزَاءً مِّن رَّبِّكَ عَطَاءً حِسَابًا
+🧠 Predicted : جَزَاكَأَ يَرورَ رُبِّك عَضَااَإَن هِسَابَا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ibrahem dussary/37.mp3
+ 92%|█████████▎| 37/40 [04:01<00:26,  8.79s/it]
+📌 Ayah 37
+✅ Reference : رَّبِّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا الرَّحْمَٰنِ لَا يَمْلِكُونَ مِنْهُ خِطَابًا
+🧠 Predicted : رَبُّ السَّمَاغَافِيغَلَا رُبِ غَمَا بَغِينَهُ مَرُومَّهٌ مَانُوا لَا يَلِكُمنَ مِنٌهُ خِطابَا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ibrahem dussary/38.mp3
+ 95%|█████████▌| 38/40 [04:17<00:21, 10.95s/it]
+📌 Ayah 38
+✅ Reference : يَوْمَ يَقُومُ الرُّوحُ وَالْمَلَائِكَةُ صَفًّا لَّا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ الرَّحْمَٰنُ وَقَالَ صَوَابًا
+🧠 Predicted : يَوٌنَا يَغُضُهُ هُوفُومُ حُم مَا لَاَ غَا لَ َ سَغَ لَلَا غَحِغَادُو صَب لَا يَداغَ إللَا هُونَا لِهَِا مَا نَغِينَا لَا هُُ اللَّهِمَا نُوَطَا وَلَ صوَىبا
+📉 WER       : 185.71%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ibrahem dussary/39.mp3
+ 98%|█████████▊| 39/40 [04:31<00:12, 12.04s/it]
+📌 Ayah 39
+✅ Reference : ذَٰلِكَ الْيَوْمُ الْحَقُّ ۖ فَمَن شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ مَآبًا
+🧠 Predicted : بلكليومليح طبمنساغغاااعدخليلا ربه معبا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ibrahem dussary/40.mp3
+100%|██████████| 40/40 [04:56<00:00,  7.41s/it]
+
+📌 Ayah 40
+✅ Reference : إِنَّا أَنذَرْنَاكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنظُرُ الْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ الْكَافِرُ يَا لَيْتَنِي كُنتُ تُرَابًا
+🧠 Predicted : اِنمَا  َاََهَغأَ َنَاكُمٌ عََابَمَارِئِبَي يَهُمَا يَعٌُرُلمَرٌرُومَا غَدَّمَتٌ يَدَاهُ وَيَاقُصولُ انٌ كَافِيرُ يَا لَيزَانِيبُنبهُرَابَا
+📉 WER       : 93.75%
+
+📊 Average WER for an-naba-ibrahem dussary: 122.74%
+
+🎙️ Reciter: an-naba-hani
+  0%|          | 0/40 [00:00<?, ?it/s]Current working directory: /content
+Accessing file: ./an-naba/an-naba-hani/1.mp3
+  2%|▎         | 1/40 [00:04<02:40,  4.11s/it]
+📌 Ayah 1
+✅ Reference : عَمَّ يَتَسَاءَلُونَ
+🧠 Predicted : عَمٌمِمَّا يَسٌدٌن سَاهَ غَنُلٌمُومُمُوتِ
+📉 WER       : 200.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-hani/2.mp3
+  5%|▌         | 2/40 [00:07<02:10,  3.44s/it]
+📌 Ayah 2
+✅ Reference : عَنِ النَّبَإِ الْعَظِيمِ
+🧠 Predicted : عان البغيهِ ناظِ يعمي
+📉 WER       : 133.33%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-hani/3.mp3
+  8%|▊         | 3/40 [00:11<02:27,  3.99s/it]
+📌 Ayah 3
+✅ Reference : الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ
+🧠 Predicted : ائاليره فيه هوخدى لحزومون
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-hani/4.mp3
+ 10%|█         | 4/40 [00:14<02:04,  3.46s/it]
+📌 Ayah 4
+✅ Reference : كَلَّا سَيَعْلَمُونَ
+🧠 Predicted : هَللَّا سَايع عَلَامُن
+📉 WER       : 150.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-hani/5.mp3
+ 12%|█▎        | 5/40 [00:18<02:06,  3.62s/it]
+📌 Ayah 5
+✅ Reference : ثُمَّ كَلَّا سَيَعْلَمُونَ
+🧠 Predicted : مِمَّا كَانَ لَا إَسَايٌر إعٌلَى ِيَالٌوَمُونَ
+📉 WER       : 200.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-hani/6.mp3
+ 15%|█▌        | 6/40 [00:22<02:05,  3.68s/it]
+📌 Ayah 6
+✅ Reference : أَلَمْ نَجْعَلِ الْأَرْضَ مِهَادًا
+🧠 Predicted : إلَهُم مَا جَعََ الٌاِلَابُضَانِهَاَا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-hani/7.mp3
+ 18%|█▊        | 7/40 [00:25<01:53,  3.45s/it]
+📌 Ayah 7
+✅ Reference : وَالْجِبَالَ أَوْتَادًا
+🧠 Predicted : َالجِبَالَ مهٌثَادا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-hani/8.mp3
+ 20%|██        | 8/40 [00:28<01:47,  3.37s/it]
+📌 Ayah 8
+✅ Reference : وَخَلَقْنَاكُمْ أَزْوَاجًا
+🧠 Predicted : وَخَلَقٌنَاكُمٌ عَزٌوَ جَا
+📉 WER       : 150.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-hani/9.mp3
+ 22%|██▎       | 9/40 [00:31<01:44,  3.38s/it]
+📌 Ayah 9
+✅ Reference : وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا
+🧠 Predicted : وجعلنانه ومنكن صوبا ا
+📉 WER       : 133.33%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-hani/10.mp3
+ 25%|██▌       | 10/40 [00:35<01:44,  3.49s/it]
+📌 Ayah 10
+✅ Reference : وَجَعَلْنَا اللَّيْلَ لِبَاسًا
+🧠 Predicted : وَجَالٌنَلَيَنَ لِبَا سَا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-hani/11.mp3
+ 28%|██▊       | 11/40 [00:39<01:46,  3.69s/it]
+📌 Ayah 11
+✅ Reference : وَجَعَلْنَا النَّهَارَ مَعَاشًا
+🧠 Predicted : وَجَاعَلٌنامَ يَرَ مَههَاشَا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-hani/12.mp3
+ 30%|███       | 12/40 [00:44<01:52,  4.02s/it]
+📌 Ayah 12
+✅ Reference : وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا
+🧠 Predicted : غبانا ينا فروا قا ان صاب عن ينجداا
+📉 WER       : 200.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-hani/13.mp3
+ 32%|███▎      | 13/40 [00:49<01:57,  4.37s/it]
+📌 Ayah 13
+✅ Reference : وَجَعَلْنَا سِرَاجًا وَهَّاجًا
+🧠 Predicted : وجعلما سيرا اجوي وهاجا
+📉 WER       : 133.33%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-hani/14.mp3
+ 35%|███▌      | 14/40 [00:56<02:11,  5.07s/it]
+📌 Ayah 14
+✅ Reference : وَأَنْزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجًا
+🧠 Predicted : وَإَنٌزَلٌنَا لِئنَا الٌمَاصٌنَ اللَّهُ فِينَارَهٌٌ َجَّا جَا
+📉 WER       : 140.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-hani/15.mp3
+ 38%|███▊      | 15/40 [01:01<02:07,  5.10s/it]
+📌 Ayah 15
+✅ Reference : لِنُخْرِجَ بِهِ حَبًّا وَنَبَاتًا
+🧠 Predicted : لنخر الجابي حبّا وإنا باكا
+📉 WER       : 125.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-hani/16.mp3
+ 40%|████      | 16/40 [01:04<01:51,  4.65s/it]
+📌 Ayah 16
+✅ Reference : وَجَنَّاتٍ أَلْفَافًا
+🧠 Predicted : َجَمَاٌثِ عَنٌفَارقَا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-hani/17.mp3
+ 42%|████▎     | 17/40 [01:09<01:45,  4.60s/it]
+📌 Ayah 17
+✅ Reference : إِنَّ يَوْمَ الْفَصْلِ كَانَ مِيقَاتًا
+🧠 Predicted : إَهٌممَّ يَوٌمَنٌ فَصٌل كَامَ لِيهِكَى عَن ثَاه
+📉 WER       : 140.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-hani/18.mp3
+ 45%|████▌     | 18/40 [01:17<02:01,  5.51s/it]
+📌 Ayah 18
+✅ Reference : يَوْمَ يُنفَخُ فِي الصُّورِ فَتَأْتُونَ أَفْوَاجًا
+🧠 Predicted : يَعمَالُوفَهم فِي الصا مَا تَعٌدَون عصوَا عٌجا
+📉 WER       : 116.67%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-hani/19.mp3
+ 48%|████▊     | 19/40 [01:22<01:53,  5.42s/it]
+📌 Ayah 19
+✅ Reference : وَفُتِحَتِ السَّمَاءُ فَكَانَتْ أَبْوَابًا
+🧠 Predicted : وُصُودِي حَاٌفِهِ السَّمَاأُ فَكَان سَّاب وَادَاَ
+📉 WER       : 150.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-hani/20.mp3
+ 50%|█████     | 20/40 [01:27<01:47,  5.38s/it]
+📌 Ayah 20
+✅ Reference : وَسُيِّرَتِ الْجِبَالُ فَكَانَتْ سَرَابًا
+🧠 Predicted : واسوي يه ثي النجبارهفا كان نغابا
+📉 WER       : 150.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-hani/21.mp3
+ 52%|█████▎    | 21/40 [01:34<01:50,  5.81s/it]
+📌 Ayah 21
+✅ Reference : إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا
+🧠 Predicted : عِنَّا جَهَانُمِنَّ مَا كَانَ لرٌصَاا
+📉 WER       : 125.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-hani/22.mp3
+ 55%|█████▌    | 22/40 [01:37<01:29,  4.95s/it]
+📌 Ayah 22
+✅ Reference : لِلطَّاغِينَ مَآبًا
+🧠 Predicted : ُالطَّاضِي جِلَمَا آَبَاأ
+📉 WER       : 150.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-hani/23.mp3
+ 57%|█████▊    | 23/40 [01:42<01:26,  5.11s/it]
+📌 Ayah 23
+✅ Reference : لَابِثِينَ فِيهَا أَحْقَابًا
+🧠 Predicted : لا ميهر مسناأحقنبا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-hani/24.mp3
+ 60%|██████    | 24/40 [01:48<01:24,  5.28s/it]
+📌 Ayah 24
+✅ Reference : لَا يَذُوقُونَ فِيهَا بَرْدًا وَلَا شَرَابًا
+🧠 Predicted : آا ينظروكوا عونى فيها برو دعوم ولا إنشرا با
+📉 WER       : 150.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-hani/25.mp3
+ 62%|██████▎   | 25/40 [01:52<01:12,  4.84s/it]
+📌 Ayah 25
+✅ Reference : إِلَّا حَمِيمًا وَغَسَّاقًا
+🧠 Predicted : الا عن يجما وغزّا طم
+📉 WER       : 166.67%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-hani/26.mp3
+ 65%|██████▌   | 26/40 [01:57<01:10,  5.01s/it]
+📌 Ayah 26
+✅ Reference : جَزَاءً وِفَاقًا
+🧠 Predicted : جَزَاعَوهُم عِفَا قَان
+📉 WER       : 150.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-hani/27.mp3
+ 68%|██████▊   | 27/40 [02:02<01:05,  5.03s/it]
+📌 Ayah 27
+✅ Reference : إِنَّهُمْ كَانُوا لَا يَرْجُونَ حِسَابًا
+🧠 Predicted : اار انكاأه على لو حونحسها باأ
+📉 WER       : 120.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-hani/28.mp3
+ 70%|███████   | 28/40 [02:08<01:02,  5.20s/it]
+📌 Ayah 28
+✅ Reference : وَكَذَّبُوا بِآيَاتِنَا كِذَّابًا
+🧠 Predicted : وكن الابوبما ياهزماك ابار
+📉 WER       : 133.33%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-hani/29.mp3
+ 72%|███████▎  | 29/40 [02:13<00:56,  5.14s/it]
+📌 Ayah 29
+✅ Reference : وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ كِتَابًا
+🧠 Predicted : وكل جاين نمحصليناه كيتابعا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-hani/30.mp3
+ 75%|███████▌  | 30/40 [02:20<00:58,  5.81s/it]
+📌 Ayah 30
+✅ Reference : فَذُوقُوا فَلَنْ نَزِيدَكُمْ إِلَّا عَذَابًا
+🧠 Predicted : انٌظُطُوا خَلَغِهٌه ان نَزَيٌنَتٌكُمٌ مِنٌ حَلّلَا عَا َا
+📉 WER       : 160.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-hani/31.mp3
+ 78%|███████▊  | 31/40 [02:24<00:46,  5.16s/it]
+📌 Ayah 31
+✅ Reference : إِنَّ لِلْمُتَّقِينَ مَفَازًا
+🧠 Predicted : ما ل قيرِ مَا من خازا
+📉 WER       : 200.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-hani/32.mp3
+ 80%|████████  | 32/40 [02:27<00:35,  4.48s/it]
+📌 Ayah 32
+✅ Reference : حَدَائِقَ وَأَعْنَابًا
+🧠 Predicted : حَالِمَ اللَغَ إَنٌ عَنَا رَيبَهَا
+📉 WER       : 250.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-hani/33.mp3
+ 82%|████████▎ | 33/40 [02:30<00:28,  4.12s/it]
+📌 Ayah 33
+✅ Reference : وَكَوَاعِبَ أَتْرَابًا
+🧠 Predicted : إوَكَغَى رَجٌبَ عَزَّرَآٌَبَا
+📉 WER       : 150.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-hani/34.mp3
+ 85%|████████▌ | 34/40 [02:34<00:25,  4.21s/it]
+📌 Ayah 34
+✅ Reference : وَكَأْسًا دِهَاقًا
+🧠 Predicted : وَكَ إَإٌسَرِتِهَا يقَامَ لَ
+📉 WER       : 200.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-hani/35.mp3
+ 88%|████████▊ | 35/40 [02:40<00:23,  4.76s/it]
+📌 Ayah 35
+✅ Reference : لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا كِذَّابًا
+🧠 Predicted : آا يَصنارون فيها نضوهوا ولا حا با
+📉 WER       : 116.67%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-hani/36.mp3
+ 90%|█████████ | 36/40 [02:48<00:22,  5.62s/it]
+📌 Ayah 36
+✅ Reference : جَزَاءً مِّن رَّبِّكَ عَطَاءً حِسَابًا
+🧠 Predicted : جعزاهم يروهبك عقاغاأ منهلسىعبا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-hani/37.mp3
+ 92%|█████████▎| 37/40 [02:58<00:21,  7.02s/it]
+📌 Ayah 37
+✅ Reference : رَّبِّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا الرَّحْمَٰنِ لَا يَمْلِكُونَ مِنْهُ خِطَابًا
+🧠 Predicted : رَبِّ اسٌَّمَاوُيٌَتِرُ اَلَا رض وَمَا بَيِعٌنَهُ مَظٌوعيَا لَا هِيهِئُونَ مَنٌهُ فِظَابا
+📉 WER       : 90.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-hani/38.mp3
+ 95%|█████████▌| 38/40 [03:12<00:17,  8.93s/it]
+📌 Ayah 38
+✅ Reference : يَوْمَ يَقُومُ الرُّوحُ وَالْمَلَائِكَةُ صَفًّا لَّا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ الرَّحْمَٰنُ وَقَالَ صَوَابًا
+🧠 Predicted : يَوٌمَا يَرٌقُومُ غوحِورا لِمَانَا كَاُوا صَفٌفا لَا يَنٌتَنٌجٌعَنٌ مَامُورِ عِنّا إَنٌ هٌَر علَهُ وَهمَا هُ إَقَا نَوصَا وَابَا
+📉 WER       : 128.57%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-hani/39.mp3
+ 98%|█████████▊| 39/40 [03:20<00:08,  8.61s/it]
+📌 Ayah 39
+✅ Reference : ذَٰلِكَ الْيَوْمُ الْحَقُّ ۖ فَمَن شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ مَآبًا
+🧠 Predicted : ا انكيغوم ان حمقى غمر يشاندهنا علار  مابا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-hani/40.mp3
+100%|██████████| 40/40 [03:40<00:00,  5.51s/it]
+
+📌 Ayah 40
+✅ Reference : إِنَّا أَنذَرْنَاكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنظُرُ الْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ الْكَافِرُ يَا لَيْتَنِي كُنتُ تُرَابًا
+🧠 Predicted : ا إَنظََ رَكٌوهمٌ عَنٌ َابَ ِإرٌبَا يَوٌمَ يَوفُورُ ا الٌمَضٌلُ مَا غََّ مَنٌ تِيعََاوَيَنٌطولُغى فيَا لَاِنٌثَنِنَكُمبُنتُلَاٌبَا
+📉 WER       : 100.00%
+
+📊 Average WER for an-naba-hani: 137.80%
+
+🎙️ Reciter: an-naba-fares-abbad
+  0%|          | 0/40 [00:00<?, ?it/s]Current working directory: /content
+Accessing file: ./an-naba/an-naba-fares-abbad/1.mp3
+  2%|▎         | 1/40 [00:03<02:12,  3.41s/it]
+📌 Ayah 1
+✅ Reference : عَمَّ يَتَسَاءَلُونَ
+🧠 Predicted : عَمَا يَتَسَاعَلُونَ َ
+📉 WER       : 150.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-fares-abbad/2.mp3
+  5%|▌         | 2/40 [00:06<02:13,  3.50s/it]
+📌 Ayah 2
+✅ Reference : عَنِ النَّبَإِ الْعَظِيمِ
+🧠 Predicted : إالينب انعاغيهم
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-fares-abbad/3.mp3
+  8%|▊         | 3/40 [00:11<02:29,  4.04s/it]
+📌 Ayah 3
+✅ Reference : الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ
+🧠 Predicted : الَّضِي هُمٌ فِيهِ مُخٌتَلِزُِ
+📉 WER       : 75.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-fares-abbad/4.mp3
+ 10%|█         | 4/40 [00:13<01:56,  3.23s/it]
+📌 Ayah 4
+✅ Reference : كَلَّا سَيَعْلَمُونَ
+🧠 Predicted : لدَيلاسَ يعمون
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-fares-abbad/5.mp3
+ 12%|█▎        | 5/40 [00:17<01:55,  3.29s/it]
+📌 Ayah 5
+✅ Reference : ثُمَّ كَلَّا سَيَعْلَمُونَ
+🧠 Predicted : مَا كَلَّا سَاعٌكَمُهُ منِ
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-fares-abbad/6.mp3
+ 15%|█▌        | 6/40 [00:20<01:48,  3.19s/it]
+📌 Ayah 6
+✅ Reference : أَلَمْ نَجْعَلِ الْأَرْضَ مِهَادًا
+🧠 Predicted : إلم نجعل الإرضم ها
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-fares-abbad/7.mp3
+ 18%|█▊        | 7/40 [00:23<01:47,  3.26s/it]
+📌 Ayah 7
+✅ Reference : وَالْجِبَالَ أَوْتَادًا
+🧠 Predicted : وَلٌجِبَا لَإَم تادا
+📉 WER       : 150.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-fares-abbad/8.mp3
+ 20%|██        | 8/40 [00:26<01:43,  3.23s/it]
+📌 Ayah 8
+✅ Reference : وَخَلَقْنَاكُمْ أَزْوَاجًا
+🧠 Predicted : وَخَالَ قٌونَاكُمٌ عَزوَاجَاأ
+📉 WER       : 150.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-fares-abbad/9.mp3
+ 22%|██▎       | 9/40 [00:29<01:39,  3.20s/it]
+📌 Ayah 9
+✅ Reference : وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا
+🧠 Predicted : ق جعلها نومكم صباتا
+📉 WER       : 133.33%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-fares-abbad/10.mp3
+ 25%|██▌       | 10/40 [00:32<01:32,  3.09s/it]
+📌 Ayah 10
+✅ Reference : وَجَعَلْنَا اللَّيْلَ لِبَاسًا
+🧠 Predicted : واجاع لناملينا للباسى
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-fares-abbad/11.mp3
+ 28%|██▊       | 11/40 [00:36<01:39,  3.45s/it]
+📌 Ayah 11
+✅ Reference : وَجَعَلْنَا النَّهَارَ مَعَاشًا
+🧠 Predicted : قَد جَاعَلِنَامَهَارَ مَعَاٌشَا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-fares-abbad/12.mp3
+ 30%|███       | 12/40 [00:41<01:44,  3.73s/it]
+📌 Ayah 12
+✅ Reference : وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا
+🧠 Predicted : وبنينا فإلقكم سابعاشداا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-fares-abbad/13.mp3
+ 32%|███▎      | 13/40 [00:45<01:42,  3.80s/it]
+📌 Ayah 13
+✅ Reference : وَجَعَلْنَا سِرَاجًا وَهَّاجًا
+🧠 Predicted : وَجَاعَلٌنَا سِرَاجَ مََاجَا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-fares-abbad/14.mp3
+ 35%|███▌      | 14/40 [00:53<02:13,  5.14s/it]
+📌 Ayah 14
+✅ Reference : وَأَنْزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجًا
+🧠 Predicted : وإرزلنا مئرم عصراتِما فجاجا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-fares-abbad/15.mp3
+ 38%|███▊      | 15/40 [00:57<01:57,  4.70s/it]
+📌 Ayah 15
+✅ Reference : لِنُخْرِجَ بِهِ حَبًّا وَنَبَاتًا
+🧠 Predicted : لِنُخٌرِجَ بِهِ حَبَّاأ وَنَبَاتَ
+📉 WER       : 75.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-fares-abbad/16.mp3
+ 40%|████      | 16/40 [01:00<01:43,  4.29s/it]
+📌 Ayah 16
+✅ Reference : وَجَنَّاتٍ أَلْفَافًا
+🧠 Predicted : وَجَنَّاتِن إَلٌفَافا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-fares-abbad/17.mp3
+ 42%|████▎     | 17/40 [01:05<01:46,  4.63s/it]
+📌 Ayah 17
+✅ Reference : إِنَّ يَوْمَ الْفَصْلِ كَانَ مِيقَاتًا
+🧠 Predicted : وَليَُّ يَوٌمَ الٌفَصٌلِ كَانَ فِي قَاتِا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-fares-abbad/18.mp3
+ 45%|████▌     | 18/40 [01:10<01:45,  4.78s/it]
+📌 Ayah 18
+✅ Reference : يَوْمَ يُنفَخُ فِي الصُّورِ فَتَأْتُونَ أَفْوَاجًا
+🧠 Predicted : يوٌمَ يفخم فِي الصُورِ فَتَإٌتونَ إَفٌوَاجَا
+📉 WER       : 83.33%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-fares-abbad/19.mp3
+ 48%|████▊     | 19/40 [01:17<01:50,  5.26s/it]
+📌 Ayah 19
+✅ Reference : وَفُتِحَتِ السَّمَاءُ فَكَانَتْ أَبْوَابًا
+🧠 Predicted : وَفُوطِحَ فِي لسَّمَاه فَكَانَتٌ إَبٌغَابا
+📉 WER       : 125.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-fares-abbad/20.mp3
+ 50%|█████     | 20/40 [01:21<01:37,  4.88s/it]
+📌 Ayah 20
+✅ Reference : وَسُيِّرَتِ الْجِبَالُ فَكَانَتْ سَرَابًا
+🧠 Predicted : وَزُيِّرَ ٌجِبَالُ فَكَا نَتٌسَ غَابا
+📉 WER       : 125.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-fares-abbad/21.mp3
+ 52%|█████▎    | 21/40 [01:25<01:29,  4.69s/it]
+📌 Ayah 21
+✅ Reference : إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا
+🧠 Predicted : ولما جازا عنما كا نسم رُصادر
+📉 WER       : 150.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-fares-abbad/22.mp3
+ 55%|█████▌    | 22/40 [01:29<01:18,  4.38s/it]
+📌 Ayah 22
+✅ Reference : لِلطَّاغِينَ مَآبًا
+🧠 Predicted : لِلطَّاغِينَ مَآبا
+📉 WER       : 50.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-fares-abbad/23.mp3
+ 57%|█████▊    | 23/40 [01:33<01:14,  4.41s/it]
+📌 Ayah 23
+✅ Reference : لَابِثِينَ فِيهَا أَحْقَابًا
+🧠 Predicted : لابثين فيها إحغابا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-fares-abbad/24.mp3
+ 60%|██████    | 24/40 [01:38<01:12,  4.56s/it]
+📌 Ayah 24
+✅ Reference : لَا يَذُوقُونَ فِيهَا بَرْدًا وَلَا شَرَابًا
+🧠 Predicted : لا يَهوك نفيها برد ولا شغابا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-fares-abbad/25.mp3
+ 62%|██████▎   | 25/40 [01:43<01:09,  4.60s/it]
+📌 Ayah 25
+✅ Reference : إِلَّا حَمِيمًا وَغَسَّاقًا
+🧠 Predicted : املا حريم وغساكا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-fares-abbad/26.mp3
+ 65%|██████▌   | 26/40 [01:47<01:00,  4.31s/it]
+📌 Ayah 26
+✅ Reference : جَزَاءً وِفَاقًا
+🧠 Predicted : جَزَاهَاعَا وِوَيٌفَا قَا
+📉 WER       : 150.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-fares-abbad/27.mp3
+ 68%|██████▊   | 27/40 [01:51<00:57,  4.42s/it]
+📌 Ayah 27
+✅ Reference : إِنَّهُمْ كَانُوا لَا يَرْجُونَ حِسَابًا
+🧠 Predicted : هم كانوا لا يرجون حسابهم
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-fares-abbad/28.mp3
+ 70%|███████   | 28/40 [01:56<00:55,  4.61s/it]
+📌 Ayah 28
+✅ Reference : وَكَذَّبُوا بِآيَاتِنَا كِذَّابًا
+🧠 Predicted : وَكََّبُوا بِآيَرٌتِ نَاكِ الَّابَا
+📉 WER       : 133.33%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-fares-abbad/29.mp3
+ 72%|███████▎  | 29/40 [02:00<00:48,  4.39s/it]
+📌 Ayah 29
+✅ Reference : وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ كِتَابًا
+🧠 Predicted : وكُلٌ لا شَيأِ النَحصَينَاه فِيتَابَا
+📉 WER       : 125.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-fares-abbad/30.mp3
+ 75%|███████▌  | 30/40 [02:06<00:48,  4.83s/it]
+📌 Ayah 30
+✅ Reference : فَذُوقُوا فَلَنْ نَزِيدَكُمْ إِلَّا عَذَابًا
+🧠 Predicted : فَُوقُوا فَلَا مَا سَيِدَكُمٌ فلَأَ عََابَا
+📉 WER       : 120.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-fares-abbad/31.mp3
+ 78%|███████▊  | 31/40 [02:10<00:41,  4.58s/it]
+📌 Ayah 31
+✅ Reference : إِنَّ لِلْمُتَّقِينَ مَفَازًا
+🧠 Predicted : لاِنَّا لِلٌمُتَّقِ انَمَا فَازا
+📉 WER       : 133.33%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-fares-abbad/32.mp3
+ 80%|████████  | 32/40 [02:14<00:34,  4.27s/it]
+📌 Ayah 32
+✅ Reference : حَدَائِقَ وَأَعْنَابًا
+🧠 Predicted : هَدَاأِ قَاَ إَعٌنَابا
+📉 WER       : 150.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-fares-abbad/33.mp3
+ 82%|████████▎ | 33/40 [02:16<00:27,  3.87s/it]
+📌 Ayah 33
+✅ Reference : وَكَوَاعِبَ أَتْرَابًا
+🧠 Predicted : وَكَغَاعِبَ إَتٌرَابَا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-fares-abbad/34.mp3
+ 85%|████████▌ | 34/40 [02:20<00:22,  3.70s/it]
+📌 Ayah 34
+✅ Reference : وَكَأْسًا دِهَاقًا
+🧠 Predicted : َكَإٌسَى بِهَاقَى
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-fares-abbad/35.mp3
+ 88%|████████▊ | 35/40 [02:26<00:21,  4.33s/it]
+📌 Ayah 35
+✅ Reference : لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا كِذَّابًا
+🧠 Predicted : لا يسناعه ن فيها لغوم ولا كابا
+📉 WER       : 116.67%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-fares-abbad/36.mp3
+ 90%|█████████ | 36/40 [02:32<00:19,  4.84s/it]
+📌 Ayah 36
+✅ Reference : جَزَاءً مِّن رَّبِّكَ عَطَاءً حِسَابًا
+🧠 Predicted : يَسَاإَمِّر رَبِّكَ عَقَا إَالٌحِسَابا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-fares-abbad/37.mp3
+ 92%|█████████▎| 37/40 [02:40<00:18,  6.02s/it]
+📌 Ayah 37
+✅ Reference : رَّبِّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا الرَّحْمَٰنِ لَا يَمْلِكُونَ مِنْهُ خِطَابًا
+🧠 Predicted : والرَبِّسَمَا وَاٌتِيغَا لِلإَضِّ وَمَا بَهِنَهُ مَرَحُمَانِ لَا يَمٌلِكُونَ مِنٌهُ فِقَابا
+📉 WER       : 80.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-fares-abbad/38.mp3
+ 95%|█████████▌| 38/40 [02:53<00:15,  7.93s/it]
+📌 Ayah 38
+✅ Reference : يَوْمَ يَقُومُ الرُّوحُ وَالْمَلَائِكَةُ صَفًّا لَّا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ الرَّحْمَٰنُ وَقَالَ صَوَابًا
+🧠 Predicted : ليَوٌمَ يَقُومُ الٌمُوجُوعا مَلَا اِكَثُ صَفَّلِلَا يَتَكَلَّهُ ُنَح لَّا مَنٌ عَِيلَ لَا هُرُ رَ مَُ وَقَانَ صَوَابا
+📉 WER       : 107.14%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-fares-abbad/39.mp3
+ 98%|█████████▊| 39/40 [03:02<00:08,  8.46s/it]
+📌 Ayah 39
+✅ Reference : ذَٰلِكَ الْيَوْمُ الْحَقُّ ۖ فَمَن شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ مَآبًا
+🧠 Predicted : َلِكَ يَوٌمُ الٌحَ فَمَنٌ شَا إَدَغَلَ اِلَى رَبِّهِ مَعآَابَا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-fares-abbad/40.mp3
+100%|██████████| 40/40 [03:22<00:00,  5.07s/it]
+
+📌 Ayah 40
+✅ Reference : إِنَّا أَنذَرْنَاكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنظُرُ الْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ الْكَافِرُ يَا لَيْتَنِي كُنتُ تُرَابًا
+🧠 Predicted : نَاإََغٌلَاكُمٌ عََابَ غَلِيبَا يَوٌمَ يَغُفُ الٌمَغٌضُ مَا قُدَّمَتٌ يَدَا وَيَقُوُُ الٌكَافِرُوا يَا لَيِتَلِيكُمتُتُغَابَا
+📉 WER       : 87.50%
+
+📊 Average WER for an-naba-fares-abbad: 109.24%
+
+🎙️ Reciter: an-naba-ali jaber
+  0%|          | 0/40 [00:00<?, ?it/s]Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali jaber/1.mp3
+  2%|▎         | 1/40 [00:06<03:57,  6.09s/it]
+📌 Ayah 1
+✅ Reference : عَمَّ يَتَسَاءَلُونَ
+🧠 Predicted : عَاممَ يَتَإسِعَأَ لٌَغُوونَ
+📉 WER       : 150.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali jaber/2.mp3
+  5%|▌         | 2/40 [00:09<02:58,  4.70s/it]
+📌 Ayah 2
+✅ Reference : عَنِ النَّبَإِ الْعَظِيمِ
+🧠 Predicted : عَنٌ اِنَبَاأِ الَاظِيِيمَ
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali jaber/3.mp3
+  8%|▊         | 3/40 [00:14<02:58,  4.82s/it]
+📌 Ayah 3
+✅ Reference : الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ
+🧠 Predicted : إَعَن لَانِي هُمٌ فِيهِ مُخٌتَلِفنَ
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali jaber/4.mp3
+ 10%|█         | 4/40 [00:18<02:43,  4.55s/it]
+📌 Ayah 4
+✅ Reference : كَلَّا سَيَعْلَمُونَ
+🧠 Predicted : كَإَن لَا سَايَ عَلَىمُونَ
+📉 WER       : 200.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali jaber/5.mp3
+ 12%|█▎        | 5/40 [00:23<02:34,  4.40s/it]
+📌 Ayah 5
+✅ Reference : ثُمَّ كَلَّا سَيَعْلَمُونَ
+🧠 Predicted : ثم كان لا سيا علمون
+📉 WER       : 166.67%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali jaber/6.mp3
+ 15%|█▌        | 6/40 [00:27<02:24,  4.26s/it]
+📌 Ayah 6
+✅ Reference : أَلَمْ نَجْعَلِ الْأَرْضَ مِهَادًا
+🧠 Predicted : َعَلَمٌنَايَا عَلَيٌنِ إَعٌرَ اللَّا مِي هَادَاهُو
+📉 WER       : 150.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali jaber/7.mp3
+ 18%|█▊        | 7/40 [00:31<02:19,  4.24s/it]
+📌 Ayah 7
+✅ Reference : وَالْجِبَالَ أَوْتَادًا
+🧠 Predicted : ووعلى الجيبلا إعوعاد إه
+📉 WER       : 200.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali jaber/8.mp3
+ 20%|██        | 8/40 [00:34<02:07,  4.00s/it]
+📌 Ayah 8
+✅ Reference : وَخَلَقْنَاكُمْ أَزْوَاجًا
+🧠 Predicted : وَقَالَ إقٌعٌناكُم إَزٌوَا جارا
+📉 WER       : 200.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali jaber/9.mp3
+ 22%|██▎       | 9/40 [00:39<02:07,  4.12s/it]
+📌 Ayah 9
+✅ Reference : وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا
+🧠 Predicted : وَجَعَلٌنَا نَوٌا مَاكُمٌ سُبَاتا
+📉 WER       : 133.33%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali jaber/10.mp3
+ 25%|██▌       | 10/40 [00:43<02:10,  4.34s/it]
+📌 Ayah 10
+✅ Reference : وَجَعَلْنَا اللَّيْلَ لِبَاسًا
+🧠 Predicted : وَيَعَلَ نلَاالَارِيبَاٌسَعُوٌهُ
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali jaber/11.mp3
+ 28%|██▊       | 11/40 [00:48<02:07,  4.40s/it]
+📌 Ayah 11
+✅ Reference : وَجَعَلْنَا النَّهَارَ مَعَاشًا
+🧠 Predicted : هُا وَيَعَلَنَّهَارَامَ عَاشِر
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali jaber/12.mp3
+ 30%|███       | 12/40 [00:54<02:15,  4.85s/it]
+📌 Ayah 12
+✅ Reference : وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا
+🧠 Predicted : وَبَعٌنَاغِينَا فَإَوٌقَبُمٌ سَبَا عَنشِيدَادا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali jaber/13.mp3
+ 32%|███▎      | 13/40 [01:00<02:20,  5.22s/it]
+📌 Ayah 13
+✅ Reference : وَجَعَلْنَا سِرَاجًا وَهَّاجًا
+🧠 Predicted : وَجَعَنٌنَاسِرَايَاُووَههَايَا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali jaber/14.mp3
+ 35%|███▌      | 14/40 [01:09<02:47,  6.45s/it]
+📌 Ayah 14
+✅ Reference : وَأَنْزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجًا
+🧠 Predicted : وَإَنٌزَلٌنَا مِنَ الٌمُعَصِّرَا فِيمَاأَنٌ فَيَّايَّا
+📉 WER       : 80.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali jaber/15.mp3
+ 38%|███▊      | 15/40 [01:15<02:33,  6.15s/it]
+📌 Ayah 15
+✅ Reference : لِنُخْرِجَ بِهِ حَبًّا وَنَبَاتًا
+🧠 Predicted : لِنُخٌنِيجَا بِهِ حَابَّاهُهُهُ وَنَا بَاتَاو
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali jaber/16.mp3
+ 40%|████      | 16/40 [01:18<02:10,  5.45s/it]
+📌 Ayah 16
+✅ Reference : وَجَنَّاتٍ أَلْفَافًا
+🧠 Predicted : وَجَانَّات إلٌفَافَا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali jaber/17.mp3
+ 42%|████▎     | 17/40 [01:25<02:13,  5.79s/it]
+📌 Ayah 17
+✅ Reference : إِنَّ يَوْمَ الْفَصْلِ كَانَ مِيقَاتًا
+🧠 Predicted : انَّ يَروا مَنٌ فَصٌلِ كَانَا مِه غَاتَا
+📉 WER       : 140.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali jaber/18.mp3
+ 45%|████▌     | 18/40 [01:31<02:10,  5.92s/it]
+📌 Ayah 18
+✅ Reference : يَوْمَ يُنفَخُ فِي الصُّورِ فَتَأْتُونَ أَفْوَاجًا
+🧠 Predicted : يََوٌمَا يَنٌفَهُ مِنَ الصَّار فَتَالُغُونَ آوَايَعَ
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali jaber/19.mp3
+ 48%|████▊     | 19/40 [01:39<02:16,  6.48s/it]
+📌 Ayah 19
+✅ Reference : وَفُتِحَتِ السَّمَاءُ فَكَانَتْ أَبْوَابًا
+🧠 Predicted : وَافُودِعَدِ سَّنَاهُ فَكَانَتهبِوَاآبا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali jaber/20.mp3
+ 50%|█████     | 20/40 [01:45<02:04,  6.25s/it]
+📌 Ayah 20
+✅ Reference : وَسُيِّرَتِ الْجِبَالُ فَكَانَتْ سَرَابًا
+🧠 Predicted : وسير جيمال فكان السرابا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali jaber/21.mp3
+ 52%|█████▎    | 21/40 [01:51<01:58,  6.25s/it]
+📌 Ayah 21
+✅ Reference : إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا
+🧠 Predicted : لانّي هَانَّمَا كَانَت يرصَادانَ
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali jaber/22.mp3
+ 55%|█████▌    | 22/40 [01:54<01:34,  5.22s/it]
+📌 Ayah 22
+✅ Reference : لِلطَّاغِينَ مَآبًا
+🧠 Predicted : اِيَضَاغِينَ مَا آبَلَ
+📉 WER       : 150.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali jaber/23.mp3
+ 57%|█████▊    | 23/40 [01:58<01:24,  4.99s/it]
+📌 Ayah 23
+✅ Reference : لَابِثِينَ فِيهَا أَحْقَابًا
+🧠 Predicted : لَا بِِينَا فِيهَاأ حِقَابا
+📉 WER       : 133.33%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali jaber/24.mp3
+ 60%|██████    | 24/40 [02:05<01:28,  5.54s/it]
+📌 Ayah 24
+✅ Reference : لَا يَذُوقُونَ فِيهَا بَرْدًا وَلَا شَرَابًا
+🧠 Predicted : لاآي دغوقون فيههاب عندا علا شر عابا
+📉 WER       : 116.67%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali jaber/25.mp3
+ 62%|██████▎   | 25/40 [02:09<01:17,  5.16s/it]
+📌 Ayah 25
+✅ Reference : إِلَّا حَمِيمًا وَغَسَّاقًا
+🧠 Predicted : الا حَميماوَو اسَّا قا
+📉 WER       : 133.33%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali jaber/26.mp3
+ 65%|██████▌   | 26/40 [02:16<01:18,  5.60s/it]
+📌 Ayah 26
+✅ Reference : جَزَاءً وِفَاقًا
+🧠 Predicted : يَزَاإَغ فا قَا
+📉 WER       : 150.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali jaber/27.mp3
+ 68%|██████▊   | 27/40 [02:22<01:13,  5.62s/it]
+📌 Ayah 27
+✅ Reference : إِنَّهُمْ كَانُوا لَا يَرْجُونَ حِسَابًا
+🧠 Predicted : ااِنَّهُمٌ كَانُوا لَا يَرٌجُعُونَ حِسَابَا
+📉 WER       : 60.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali jaber/28.mp3
+ 70%|███████   | 28/40 [02:28<01:08,  5.71s/it]
+📌 Ayah 28
+✅ Reference : وَكَذَّبُوا بِآيَاتِنَا كِذَّابًا
+🧠 Predicted : وَكََّابُوا بِآَيَا تِنَاكِ الدَّابَا
+📉 WER       : 133.33%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali jaber/29.mp3
+ 72%|███████▎  | 29/40 [02:33<01:02,  5.69s/it]
+📌 Ayah 29
+✅ Reference : وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ كِتَابًا
+🧠 Predicted : وَكُن لَشَيٌأٌ إٌَصَِينَ عَهُ فِتَابا
+📉 WER       : 125.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali jaber/30.mp3
+ 75%|███████▌  | 30/40 [02:40<01:01,  6.14s/it]
+📌 Ayah 30
+✅ Reference : فَذُوقُوا فَلَنْ نَزِيدَكُمْ إِلَّا عَذَابًا
+🧠 Predicted : فَإَُوقُومُ فَلَاننَزِيعٌدَكُمٌ اِنلَا عََابا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali jaber/31.mp3
+ 78%|███████▊  | 31/40 [02:45<00:51,  5.70s/it]
+📌 Ayah 31
+✅ Reference : إِنَّ لِلْمُتَّقِينَ مَفَازًا
+🧠 Predicted : لِنَلِلِ مَّقِينَ مَا فَعازَنَا
+📉 WER       : 133.33%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali jaber/32.mp3
+ 80%|████████  | 32/40 [02:50<00:43,  5.41s/it]
+📌 Ayah 32
+✅ Reference : حَدَائِقَ وَأَعْنَابًا
+🧠 Predicted : انحادا ان قوى إعنعنبا
+📉 WER       : 200.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali jaber/33.mp3
+ 82%|████████▎ | 33/40 [02:54<00:34,  4.90s/it]
+📌 Ayah 33
+✅ Reference : وَكَوَاعِبَ أَتْرَابًا
+🧠 Predicted : وَكَوَاعِبَ إت رَابا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali jaber/34.mp3
+ 85%|████████▌ | 34/40 [02:57<00:26,  4.42s/it]
+📌 Ayah 34
+✅ Reference : وَكَأْسًا دِهَاقًا
+🧠 Predicted : وَكَإٌسَندِ هَأَا قَالَ
+📉 WER       : 150.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali jaber/35.mp3
+ 88%|████████▊ | 35/40 [03:04<00:25,  5.16s/it]
+📌 Ayah 35
+✅ Reference : لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا كِذَّابًا
+🧠 Predicted : الا يسمعون فيها لغه ولابلدابا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali jaber/36.mp3
+ 90%|█████████ | 36/40 [03:13<00:24,  6.25s/it]
+📌 Ayah 36
+✅ Reference : جَزَاءً مِّن رَّبِّكَ عَطَاءً حِسَابًا
+🧠 Predicted : يَنٌزَى إَن إنِغٌرَابِّك عٌضَا إَنٌ حِسَاأبَا
+📉 WER       : 120.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali jaber/37.mp3
+ 92%|█████████▎| 37/40 [03:24<00:23,  7.81s/it]
+📌 Ayah 37
+✅ Reference : رَّبِّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا الرَّحْمَٰنِ لَا يَمْلِكُونَ مِنْهُ خِطَابًا
+🧠 Predicted : رَبِّ السَّمَاوَاتِ وَلٌإَرٌٌضنِي وَمَا بَنِينَهُ مَا رُرَحِسٌنَانِي لَا يَمٌلِكُونَإَمِنَ مُهِطَابا
+📉 WER       : 80.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali jaber/38.mp3
+ 95%|█████████▌| 38/40 [03:40<00:20, 10.28s/it]
+📌 Ayah 38
+✅ Reference : يَوْمَ يَقُومُ الرُّوحُ وَالْمَلَائِكَةُ صَفًّا لَّا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ الرَّحْمَٰنُ وَقَالَ صَوَابًا
+🧠 Predicted : يَإَوٌمَا يَقُورُونُ رَورٌحا وَعَلٌمَانَاا اِبٌنِ صَبٌ بعَنٌ لَا يَدَابَعَنلَّموُونَ اِن لَا مَنٌ آعلِينَ لَهُ لَحٌمَانُوا وَقَالَ إَصَعٌوَهَابَا
+📉 WER       : 107.14%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali jaber/39.mp3
+ 98%|█████████▊| 39/40 [03:51<00:10, 10.37s/it]
+📌 Ayah 39
+✅ Reference : ذَٰلِكَ الْيَوْمُ الْحَقُّ ۖ فَمَن شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ مَآبًا
+🧠 Predicted : لَ عَانِيكَ عَنٌ يَرُومُ الٌحَقَّ فَمَنٌشِاأ دخَلَ اِلَى رَبِّهِهمَآبَا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali jaber/40.mp3
+100%|██████████| 40/40 [04:10<00:00,  6.26s/it]
+
+📌 Ayah 40
+✅ Reference : إِنَّا أَنذَرْنَاكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنظُرُ الْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ الْكَافِرُ يَا لَيْتَنِي كُنتُ تُرَابًا
+🧠 Predicted : اِنَّا إَنَنَاهُمعََابَاٌقَرِي بَايَهُ مَا يَرُ ومُنٌمَرٌهُمَا قََّمَتِي عدَا وَيَقُولُهُ الٌكَافِرٌ يَا لَاٌتَانِيٌُرَابا
+📉 WER       : 93.75%
+
+📊 Average WER for an-naba-ali jaber: 122.65%
+
+🎙️ Reciter: an-naba-yasser dussary
+  0%|          | 0/40 [00:00<?, ?it/s]Current working directory: /content
+Accessing file: ./an-naba/an-naba-yasser dussary/1.mp3
+  2%|▎         | 1/40 [00:06<04:01,  6.21s/it]
+📌 Ayah 1
+✅ Reference : عَمَّ يَتَسَاءَلُونَ
+🧠 Predicted : عم يتص غعنه ما م إله ع
+📉 WER       : 350.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-yasser dussary/2.mp3
+  5%|▌         | 2/40 [00:09<02:45,  4.35s/it]
+📌 Ayah 2
+✅ Reference : عَنِ النَّبَإِ الْعَظِيمِ
+🧠 Predicted : عَلنَظَاِ الٌعَغِينِ
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-yasser dussary/3.mp3
+  8%|▊         | 3/40 [00:12<02:21,  3.83s/it]
+📌 Ayah 3
+✅ Reference : الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ
+🧠 Predicted : الَِّي هُمٌ فِيهِ مُخٌتَلِ فِن
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-yasser dussary/4.mp3
+ 10%|█         | 4/40 [00:16<02:21,  3.92s/it]
+📌 Ayah 4
+✅ Reference : كَلَّا سَيَعْلَمُونَ
+🧠 Predicted : كَلَا سَيَعٌلَمُ نَ
+📉 WER       : 150.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-yasser dussary/5.mp3
+ 12%|█▎        | 5/40 [00:20<02:11,  3.77s/it]
+📌 Ayah 5
+✅ Reference : ثُمَّ كَلَّا سَيَعْلَمُونَ
+🧠 Predicted : ثهمك لا صرِع علا مون
+📉 WER       : 166.67%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-yasser dussary/6.mp3
+ 15%|█▌        | 6/40 [00:23<02:00,  3.55s/it]
+📌 Ayah 6
+✅ Reference : أَلَمْ نَجْعَلِ الْأَرْضَ مِهَادًا
+🧠 Predicted : إَلَمٌ نَجَعَر لِإَرٌضَمِهَاا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-yasser dussary/7.mp3
+ 18%|█▊        | 7/40 [00:25<01:46,  3.22s/it]
+📌 Ayah 7
+✅ Reference : وَالْجِبَالَ أَوْتَادًا
+🧠 Predicted : وَالٌتِبَانَا إَوٌتَاعاانَ
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-yasser dussary/8.mp3
+ 20%|██        | 8/40 [00:29<01:50,  3.45s/it]
+📌 Ayah 8
+✅ Reference : وَخَلَقْنَاكُمْ أَزْوَاجًا
+🧠 Predicted : وَخَالَ قَنَاكُمٌ إَزٌنُعَاجَا
+📉 WER       : 150.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-yasser dussary/9.mp3
+ 22%|██▎       | 9/40 [00:32<01:41,  3.29s/it]
+📌 Ayah 9
+✅ Reference : وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا
+🧠 Predicted : وَجَعَلٌنَانَ وَمَاكُ اصٌوطَاتَانَ
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-yasser dussary/10.mp3
+ 25%|██▌       | 10/40 [00:35<01:34,  3.15s/it]
+📌 Ayah 10
+✅ Reference : وَجَعَلْنَا اللَّيْلَ لِبَاسًا
+🧠 Predicted : وَجَعَلُنَ النَيٌلَ رِيبَانسَانَ
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-yasser dussary/11.mp3
+ 28%|██▊       | 11/40 [00:38<01:33,  3.23s/it]
+📌 Ayah 11
+✅ Reference : وَجَعَلْنَا النَّهَارَ مَعَاشًا
+🧠 Predicted : وَتَعَلَنَهَُّهَارَ مَعَاسَا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-yasser dussary/12.mp3
+ 30%|███       | 12/40 [00:44<01:50,  3.94s/it]
+📌 Ayah 12
+✅ Reference : وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا
+🧠 Predicted : وَبَنَيٌنَا فَ اَانٌقَكٌكُمٌ سٌنََعاَ عٌسِدَاا
+📉 WER       : 125.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-yasser dussary/13.mp3
+ 32%|███▎      | 13/40 [00:48<01:44,  3.88s/it]
+📌 Ayah 13
+✅ Reference : وَجَعَلْنَا سِرَاجًا وَهَّاجًا
+🧠 Predicted : وَجٌعَلٌنَا سِرَاَ و وَهَامجَانَ
+📉 WER       : 133.33%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-yasser dussary/14.mp3
+ 35%|███▌      | 14/40 [00:57<02:20,  5.41s/it]
+📌 Ayah 14
+✅ Reference : وَأَنْزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجًا
+🧠 Predicted : وَإَمهٌُ يَنٌصَلَنَا نَيٌنَلَهِ عَصِرَاتِمَههَإَم كَدجَّاجا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-yasser dussary/15.mp3
+ 38%|███▊      | 15/40 [01:01<02:04,  4.97s/it]
+📌 Ayah 15
+✅ Reference : لِنُخْرِجَ بِهِ حَبًّا وَنَبَاتًا
+🧠 Predicted : لِنٌُخٌرِتَ بِيهِ حَبَّروُ وَنََاتا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-yasser dussary/16.mp3
+ 40%|████      | 16/40 [01:04<01:49,  4.56s/it]
+📌 Ayah 16
+✅ Reference : وَجَنَّاتٍ أَلْفَافًا
+🧠 Predicted : وَتَنههَّاتِرٌ إَلٌفا فَا
+📉 WER       : 150.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-yasser dussary/17.mp3
+ 42%|████▎     | 17/40 [01:09<01:49,  4.77s/it]
+📌 Ayah 17
+✅ Reference : إِنَّ يَوْمَ الْفَصْلِ كَانَ مِيقَاتًا
+🧠 Predicted : ََّ يَروَمَن الٌفَصٌلِ كَانَ مِن قَاتا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-yasser dussary/18.mp3
+ 45%|████▌     | 18/40 [01:15<01:48,  4.95s/it]
+📌 Ayah 18
+✅ Reference : يَوْمَ يُنفَخُ فِي الصُّورِ فَتَأْتُونَ أَفْوَاجًا
+🧠 Predicted : يَ إوٌنَا يُون فَإخُوا فِي الصورِ فَافَاإٌثِونَا إَفهَاتَان
+📉 WER       : 116.67%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-yasser dussary/19.mp3
+ 48%|████▊     | 19/40 [01:22<01:59,  5.70s/it]
+📌 Ayah 19
+✅ Reference : وَفُتِحَتِ السَّمَاءُ فَكَانَتْ أَبْوَابًا
+🧠 Predicted : وَفُطِيحَ فِي السَّامَِرَامَمَمَا مَمَامَمغُ فَكَانَتٌنَا بَغابَا
+📉 WER       : 150.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-yasser dussary/20.mp3
+ 50%|█████     | 20/40 [01:26<01:45,  5.28s/it]
+📌 Ayah 20
+✅ Reference : وَسُيِّرَتِ الْجِبَالُ فَكَانَتْ سَرَابًا
+🧠 Predicted : وَسُيرٌَِزِبَانلُ وفَكَانَ ف اسَّإرَا بَانَ
+📉 WER       : 125.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-yasser dussary/21.mp3
+ 52%|█████▎    | 21/40 [01:33<01:47,  5.68s/it]
+📌 Ayah 21
+✅ Reference : إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا
+🧠 Predicted : ُمَّجَهَا ُنههَّ مَاكَانَتٌ مِرٌصَادا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-yasser dussary/22.mp3
+ 55%|█████▌    | 22/40 [01:36<01:28,  4.93s/it]
+📌 Ayah 22
+✅ Reference : لِلطَّاغِينَ مَآبًا
+🧠 Predicted : لِقَاغِينَ مَا آَبا
+📉 WER       : 150.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-yasser dussary/23.mp3
+ 57%|█████▊    | 23/40 [01:41<01:23,  4.92s/it]
+📌 Ayah 23
+✅ Reference : لَابِثِينَ فِيهَا أَحْقَابًا
+🧠 Predicted : ما في ثينإتيهاهها إحطابا
+📉 WER       : 133.33%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-yasser dussary/24.mp3
+ 60%|██████    | 24/40 [01:48<01:27,  5.47s/it]
+📌 Ayah 24
+✅ Reference : لَا يَذُوقُونَ فِيهَا بَرْدًا وَلَا شَرَابًا
+🧠 Predicted : لَا يَطِيٌكُونَ فِيهَا غَرٌضَ وه وَنَاصَرَابَا
+📉 WER       : 66.67%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-yasser dussary/25.mp3
+ 62%|██████▎   | 25/40 [01:52<01:13,  4.93s/it]
+📌 Ayah 25
+✅ Reference : إِلَّا حَمِيمًا وَغَسَّاقًا
+🧠 Predicted : اِللَا حَمِيهِ مَاوٌِه مَغَسٌَان قَا
+📉 WER       : 166.67%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-yasser dussary/26.mp3
+ 65%|██████▌   | 26/40 [01:57<01:10,  5.03s/it]
+📌 Ayah 26
+✅ Reference : جَزَاءً وِفَاقًا
+🧠 Predicted : تَزَاَاَغَمَمَا إَوٌ ع وِفَان قَامَ
+📉 WER       : 250.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-yasser dussary/27.mp3
+ 68%|██████▊   | 27/40 [02:02<01:07,  5.18s/it]
+📌 Ayah 27
+✅ Reference : إِنَّهُمْ كَانُوا لَا يَرْجُونَ حِسَابًا
+🧠 Predicted : لَاِنَّهُمٌ كَا عَنِيٌلَا يَرٌضِنَ حٌلِصَاغا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-yasser dussary/28.mp3
+ 70%|███████   | 28/40 [02:06<00:56,  4.70s/it]
+📌 Ayah 28
+✅ Reference : وَكَذَّبُوا بِآيَاتِنَا كِذَّابًا
+🧠 Predicted : وكبوا فيإاياتنا كابان
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-yasser dussary/29.mp3
+ 72%|███████▎  | 29/40 [02:10<00:50,  4.60s/it]
+📌 Ayah 29
+✅ Reference : وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ كِتَابًا
+🧠 Predicted : وَكُونٌ اِلَى سَيٌأ مإَحٌصَيٌنَاهُ كَيٌتَابا
+📉 WER       : 125.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-yasser dussary/30.mp3
+ 75%|███████▌  | 30/40 [02:16<00:50,  5.05s/it]
+📌 Ayah 30
+✅ Reference : فَذُوقُوا فَلَنْ نَزِيدَكُمْ إِلَّا عَذَابًا
+🧠 Predicted : وَفَاضِهَوٌكُوفَلا نَزِيَكُمٌ مِن اللَّا عَفَا غَا
+📉 WER       : 120.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-yasser dussary/31.mp3
+ 78%|███████▊  | 31/40 [02:21<00:43,  4.80s/it]
+📌 Ayah 31
+✅ Reference : إِنَّ لِلْمُتَّقِينَ مَفَازًا
+🧠 Predicted : لنَ لِلٌمُطَّقِينَ مَا فَا عَزَارَ
+📉 WER       : 166.67%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-yasser dussary/32.mp3
+ 80%|████████  | 32/40 [02:25<00:38,  4.75s/it]
+📌 Ayah 32
+✅ Reference : حَدَائِقَ وَأَعْنَابًا
+🧠 Predicted : حََا مَغَمََا عَلٌطَ وَنَعٌنَابَاعَنه
+📉 WER       : 200.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-yasser dussary/33.mp3
+ 82%|████████▎ | 33/40 [02:28<00:29,  4.16s/it]
+📌 Ayah 33
+✅ Reference : وَكَوَاعِبَ أَتْرَابًا
+🧠 Predicted : وكواعبا ات راغاأ
+📉 WER       : 150.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-yasser dussary/34.mp3
+ 85%|████████▌ | 34/40 [02:31<00:23,  3.88s/it]
+📌 Ayah 34
+✅ Reference : وَكَأْسًا دِهَاقًا
+🧠 Predicted : وَكَإٌسَان بِهَا قَالَ
+📉 WER       : 150.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-yasser dussary/35.mp3
+ 88%|████████▊ | 35/40 [02:38<00:23,  4.69s/it]
+📌 Ayah 35
+✅ Reference : لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا كِذَّابًا
+🧠 Predicted : لَا يَصٌنَعُو نَفِيهَا لَغٌلَوِ وَلَا كٌِ مَا غَا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-yasser dussary/36.mp3
+ 90%|█████████ | 36/40 [02:45<00:21,  5.39s/it]
+📌 Ayah 36
+✅ Reference : جَزَاءً مِّن رَّبِّكَ عَطَاءً حِسَابًا
+🧠 Predicted : وٌتَزَا إَن النِ رَبِّكَ عَقمَا وهَهَا عَنٌ يُحِئٌصَ عَبَارك
+📉 WER       : 180.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-yasser dussary/37.mp3
+ 92%|█████████▎| 37/40 [02:56<00:21,  7.16s/it]
+📌 Ayah 37
+✅ Reference : رَّبِّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا الرَّحْمَٰنِ لَا يَمْلِكُونَ مِنْهُ خِطَابًا
+🧠 Predicted : رَبلِصَّمَا وَإٌَتِرُ وعَلِلٌإَرٌضِ غَ وَمَا غَيٌرٌنَهُ نَغٌنَاحُمَا َنَالَهَا يَعٌغِكُنَ مِنٌهُ خطابَا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-yasser dussary/38.mp3
+ 95%|█████████▌| 38/40 [03:27<00:28, 14.31s/it]
+📌 Ayah 38
+✅ Reference : يَوْمَ يَقُومُ الرُّوحُ وَالْمَلَائِكَةُ صَفًّا لَّا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ الرَّحْمَٰنُ وَقَالَ صَوَابًا
+🧠 Predicted : يَرَوٌمَ يَ الضِّيعِ نٌح وَلٌمَلَاَ مَمَامَاغَاَاَامَاَمَا يَكَثُوصَُيفَ لَّا يَرٌتَاكَ اَللَّامُعِنِلَا يَعٌتَاكَ الَّمُونَ الَّا مَنٌ هَغِيلَ لَا هُمٌ مَاحِمَمَافَافَفَََفَااوَالَه يَتَعٌكَلَ مُونَ ِرٌلَا مَنٌ مَغِيمَ لَاهُ الرَّاحُمَانُ غَقَانَ صَوَابَا
+📉 WER       : 185.71%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-yasser dussary/39.mp3
+ 98%|█████████▊| 39/40 [03:38<00:13, 13.36s/it]
+📌 Ayah 39
+✅ Reference : ذَٰلِكَ الْيَوْمُ الْحَقُّ ۖ فَمَن شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ مَآبًا
+🧠 Predicted : والكن يروعم ريح ففنن ساامامامغممما عكفإخهي لا غبه ما آابا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-yasser dussary/40.mp3
+100%|██████████| 40/40 [04:01<00:00,  6.05s/it]
+
+📌 Ayah 40
+✅ Reference : إِنَّا أَنذَرْنَاكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنظُرُ الْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ الْكَافِرُ يَا لَيْتَنِي كُنتُ تُرَابًا
+🧠 Predicted : اِنَاهَإَه ضَغُمَا كِنٌ عََاَ وَنُمِنٌ قَائِرِضَا نٌَفِإَوٌمَا يَرهُ الغُغُنِي نَرٌرُ مَا غَدَّ نَسِعٌَاهُوَيَرٌضُول الٌ كَا فِرُويَاه لَيَهٌتَانِهكٌُتُمتُوغَاضَا
+📉 WER       : 106.25%
+
+📊 Average WER for an-naba-yasser dussary: 134.17%
+
+🎙️ Reciter: an-naba-ali hajaj
+  0%|          | 0/40 [00:00<?, ?it/s]Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali hajaj/1.mp3
+  2%|▎         | 1/40 [00:05<03:23,  5.22s/it]
+📌 Ayah 1
+✅ Reference : عَمَّ يَتَسَاءَلُونَ
+🧠 Predicted : عَمَهُ مَا يَتَ سَا عَلُوانِ
+📉 WER       : 250.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali hajaj/2.mp3
+  5%|▌         | 2/40 [00:09<02:57,  4.67s/it]
+📌 Ayah 2
+✅ Reference : عَنِ النَّبَإِ الْعَظِيمِ
+🧠 Predicted : عَنٌ النَبَرِ الاضِينِ
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali hajaj/3.mp3
+  8%|▊         | 3/40 [00:13<02:45,  4.46s/it]
+📌 Ayah 3
+✅ Reference : الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ
+🧠 Predicted : إَلَّبِيهُمٌ فِيهِ مُخٌى لِفُرُونِ
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali hajaj/4.mp3
+ 10%|█         | 4/40 [00:17<02:37,  4.38s/it]
+📌 Ayah 4
+✅ Reference : كَلَّا سَيَعْلَمُونَ
+🧠 Predicted : كلا سايعلى غون
+📉 WER       : 150.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali hajaj/5.mp3
+ 12%|█▎        | 5/40 [00:23<02:51,  4.90s/it]
+📌 Ayah 5
+✅ Reference : ثُمَّ كَلَّا سَيَعْلَمُونَ
+🧠 Predicted : ثم كنا سا يعلاموه
+📉 WER       : 133.33%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali hajaj/6.mp3
+ 15%|█▌        | 6/40 [00:27<02:38,  4.66s/it]
+📌 Ayah 6
+✅ Reference : أَلَمْ نَجْعَلِ الْأَرْضَ مِهَادًا
+🧠 Predicted : إَلَمَّا جَعَلِي لِلٌإَضَّنِ هََا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali hajaj/7.mp3
+ 18%|█▊        | 7/40 [00:32<02:27,  4.48s/it]
+📌 Ayah 7
+✅ Reference : وَالْجِبَالَ أَوْتَادًا
+🧠 Predicted : وَالٌجِبَالَعَ إغَُاا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali hajaj/8.mp3
+ 20%|██        | 8/40 [00:36<02:18,  4.33s/it]
+📌 Ayah 8
+✅ Reference : وَخَلَقْنَاكُمْ أَزْوَاجًا
+🧠 Predicted : وَخَالَ قَلَاكُمٌ عَزٌوَاجا
+📉 WER       : 150.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali hajaj/9.mp3
+ 22%|██▎       | 9/40 [00:39<02:09,  4.18s/it]
+📌 Ayah 9
+✅ Reference : وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا
+🧠 Predicted : وَجَعَلٌنَالَ وَمَاكُمٌ صُبَادا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali hajaj/10.mp3
+ 25%|██▌       | 10/40 [00:44<02:06,  4.21s/it]
+📌 Ayah 10
+✅ Reference : وَجَعَلْنَا اللَّيْلَ لِبَاسًا
+🧠 Predicted : وَجَعَلٌنَا لَّيٌنَا لِبَاسا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali hajaj/11.mp3
+ 28%|██▊       | 11/40 [00:49<02:07,  4.40s/it]
+📌 Ayah 11
+✅ Reference : وَجَعَلْنَا النَّهَارَ مَعَاشًا
+🧠 Predicted : وَجَعَلٌنَا نٌَّهَا  وَمَعَاشَا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali hajaj/12.mp3
+ 30%|███       | 12/40 [00:54<02:16,  4.86s/it]
+📌 Ayah 12
+✅ Reference : وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا
+🧠 Predicted : وبميا فإوقاكم سبعشداا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali hajaj/13.mp3
+ 32%|███▎      | 13/40 [01:01<02:21,  5.22s/it]
+📌 Ayah 13
+✅ Reference : وَجَعَلْنَا سِرَاجًا وَهَّاجًا
+🧠 Predicted : وَجَعَلٌمَنَاسِيَرَادَاهُ وَنٌهَاجَا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali hajaj/14.mp3
+ 35%|███▌      | 14/40 [01:08<02:32,  5.88s/it]
+📌 Ayah 14
+✅ Reference : وَأَنْزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجًا
+🧠 Predicted : وَإَنزَلٌمَامِمَا لَغُصٌرَاتِي مَاعَغُ ثَجَاجَا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali hajaj/15.mp3
+ 38%|███▊      | 15/40 [01:13<02:24,  5.78s/it]
+📌 Ayah 15
+✅ Reference : لِنُخْرِجَ بِهِ حَبًّا وَنَبَاتًا
+🧠 Predicted : لِنُخٌرِجَ بِهِهِ حَبَّهُ وَلَا بَاا
+📉 WER       : 125.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali hajaj/16.mp3
+ 40%|████      | 16/40 [01:18<02:06,  5.26s/it]
+📌 Ayah 16
+✅ Reference : وَجَنَّاتٍ أَلْفَافًا
+🧠 Predicted : وَجَنَّات عَلٌفَافَا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali hajaj/17.mp3
+ 42%|████▎     | 17/40 [01:23<02:02,  5.32s/it]
+📌 Ayah 17
+✅ Reference : إِنَّ يَوْمَ الْفَصْلِ كَانَ مِيقَاتًا
+🧠 Predicted : اِنَّ يَغرٌمَ الٌفَصٌلِ كَانَ مِن قَاا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali hajaj/18.mp3
+ 45%|████▌     | 18/40 [01:29<02:02,  5.55s/it]
+📌 Ayah 18
+✅ Reference : يَوْمَ يُنفَخُ فِي الصُّورِ فَتَأْتُونَ أَفْوَاجًا
+🧠 Predicted : يَوٌمَ يُنٌفَهُ فِي الصُّوُرِ فَاتَإٌٌدُوهُهُ نََفُغَاجَا
+📉 WER       : 83.33%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali hajaj/19.mp3
+ 48%|████▊     | 19/40 [01:36<02:04,  5.93s/it]
+📌 Ayah 19
+✅ Reference : وَفُتِحَتِ السَّمَاءُ فَكَانَتْ أَبْوَابًا
+🧠 Predicted : وَفُوصِحَاتِ السَّمَاأُ فَكَانَ السٌهَبَا غَابَا
+📉 WER       : 125.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali hajaj/20.mp3
+ 50%|█████     | 20/40 [01:41<01:56,  5.82s/it]
+📌 Ayah 20
+✅ Reference : وَسُيِّرَتِ الْجِبَالُ فَكَانَتْ سَرَابًا
+🧠 Predicted : وَزُيرَ جِبَالُ فَكَالا سَرَابا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali hajaj/21.mp3
+ 52%|█████▎    | 21/40 [01:47<01:47,  5.68s/it]
+📌 Ayah 21
+✅ Reference : إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا
+🧠 Predicted : اممَّجَاهَاَّ مَا كَانَتٌ مِرُص واعَدا
+📉 WER       : 125.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali hajaj/22.mp3
+ 55%|█████▌    | 22/40 [01:51<01:35,  5.29s/it]
+📌 Ayah 22
+✅ Reference : لِلطَّاغِينَ مَآبًا
+🧠 Predicted : لِلطَّاغِينَ مَعَابا
+📉 WER       : 50.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali hajaj/23.mp3
+ 57%|█████▊    | 23/40 [01:56<01:25,  5.05s/it]
+📌 Ayah 23
+✅ Reference : لَابِثِينَ فِيهَا أَحْقَابًا
+🧠 Predicted : لَا بِسِيلَ فيهَا إَحٌقَابا
+📉 WER       : 133.33%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali hajaj/24.mp3
+ 60%|██████    | 24/40 [02:03<01:31,  5.75s/it]
+📌 Ayah 24
+✅ Reference : لَا يَذُوقُونَ فِيهَا بَرْدًا وَلَا شَرَابًا
+🧠 Predicted : بَا يَضُو غُضُونَ فِيهَا بَغٌبَاه وَلَا شَرَابا
+📉 WER       : 83.33%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali hajaj/25.mp3
+ 62%|██████▎   | 25/40 [02:07<01:18,  5.24s/it]
+📌 Ayah 25
+✅ Reference : إِلَّا حَمِيمًا وَغَسَّاقًا
+🧠 Predicted : بِلَ اللَ حَمِيمَ هَُغَسَّاغُو
+📉 WER       : 133.33%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali hajaj/26.mp3
+ 65%|██████▌   | 26/40 [02:12<01:11,  5.07s/it]
+📌 Ayah 26
+✅ Reference : جَزَاءً وِفَاقًا
+🧠 Predicted : يَزَاأَهُصِفَاقَا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali hajaj/27.mp3
+ 68%|██████▊   | 27/40 [02:18<01:10,  5.42s/it]
+📌 Ayah 27
+✅ Reference : إِنَّهُمْ كَانُوا لَا يَرْجُونَ حِسَابًا
+🧠 Predicted : مَّهُمٌ كَانُواهُلَا يَرُدُونَا حِسَابا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali hajaj/28.mp3
+ 70%|███████   | 28/40 [02:23<01:03,  5.26s/it]
+📌 Ayah 28
+✅ Reference : وَكَذَّبُوا بِآيَاتِنَا كِذَّابًا
+🧠 Predicted : وَكََّابُ انٌبِيعَا يَاتِينَا كِنٌ َربَا
+📉 WER       : 166.67%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali hajaj/29.mp3
+ 72%|███████▎  | 29/40 [02:29<01:00,  5.51s/it]
+📌 Ayah 29
+✅ Reference : وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ كِتَابًا
+🧠 Predicted : وَكُنَّ جَعَيٌح لَحٌصُعِيٌ نَاهُ جَِابا
+📉 WER       : 125.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali hajaj/30.mp3
+ 75%|███████▌  | 30/40 [02:35<00:56,  5.61s/it]
+📌 Ayah 30
+✅ Reference : فَذُوقُوا فَلَنْ نَزِيدَكُمْ إِلَّا عَذَابًا
+🧠 Predicted : فَُوطُوا فَلَ مَزِيظَكُمٌ عِلّا عََاوَا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali hajaj/31.mp3
+ 78%|███████▊  | 31/40 [02:39<00:47,  5.24s/it]
+📌 Ayah 31
+✅ Reference : إِنَّ لِلْمُتَّقِينَ مَفَازًا
+🧠 Predicted : اِن مَا لَيٌنُّ َقِينَا مَا فَازَا
+📉 WER       : 200.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali hajaj/32.mp3
+ 80%|████████  | 32/40 [02:44<00:41,  5.17s/it]
+📌 Ayah 32
+✅ Reference : حَدَائِقَ وَأَعْنَابًا
+🧠 Predicted : عَدَاعِقَ وَعَعَ اللَّابَا
+📉 WER       : 150.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali hajaj/33.mp3
+ 82%|████████▎ | 33/40 [02:48<00:32,  4.68s/it]
+📌 Ayah 33
+✅ Reference : وَكَوَاعِبَ أَتْرَابًا
+🧠 Predicted : وَكَغَاعِبَعَت رضا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali hajaj/34.mp3
+ 85%|████████▌ | 34/40 [02:51<00:25,  4.33s/it]
+📌 Ayah 34
+✅ Reference : وَكَأْسًا دِهَاقًا
+🧠 Predicted : وَكَإٌسَاِهَا قَا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali hajaj/35.mp3
+ 88%|████████▊ | 35/40 [02:58<00:25,  5.19s/it]
+📌 Ayah 35
+✅ Reference : لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا كِذَّابًا
+🧠 Predicted : لا يصم عونا فيهها ل راغوا ولا فالابا
+📉 WER       : 133.33%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali hajaj/36.mp3
+ 90%|█████████ | 36/40 [03:06<00:23,  5.79s/it]
+📌 Ayah 36
+✅ Reference : جَزَاءً مِّن رَّبِّكَ عَطَاءً حِسَابًا
+🧠 Predicted : يَزَاأَ يَ اللَضِّك عَفُعَل حِزَابا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali hajaj/37.mp3
+ 92%|█████████▎| 37/40 [03:17<00:22,  7.40s/it]
+📌 Ayah 37
+✅ Reference : رَّبِّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا الرَّحْمَٰنِ لَا يَمْلِكُونَ مِنْهُ خِطَابًا
+🧠 Predicted : رَبِّ السّماغاتِي والعرِ وما بيينه المرحمالا يلِكول مِنه خطَابا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali hajaj/38.mp3
+ 95%|█████████▌| 38/40 [03:33<00:20, 10.13s/it]
+📌 Ayah 38
+✅ Reference : يَوْمَ يَقُومُ الرُّوحُ وَالْمَلَائِكَةُ صَفًّا لَّا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ الرَّحْمَٰنُ وَقَالَ صَوَابًا
+🧠 Predicted : يَإَوٌمَ يَقُولُمُ ح عِلٌمَلَائِكَتُو ضَصفالَا يَتَا كَلَّاهُونَ عِثَّا مَنَا حَِلَهُ وََحٌمَانُ وَإقَاَلَا صَوَابا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali hajaj/39.mp3
+ 98%|█████████▊| 39/40 [03:43<00:10, 10.06s/it]
+📌 Ayah 39
+✅ Reference : ذَٰلِكَ الْيَوْمُ الْحَقُّ ۖ فَمَن شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ مَآبًا
+🧠 Predicted : َلِكَ الٌيَغٌضُ لِحَق فَمَنٌشَاأَدَ خَدَ عِلَى غَبٌلِهِ مَ هََا
+📉 WER       : 100.00%
+Current working directory: /content
+Accessing file: ./an-naba/an-naba-ali hajaj/40.mp3
+100%|██████████| 40/40 [04:02<00:00,  6.05s/it]
+📌 Ayah 40
+✅ Reference : إِنَّا أَنذَرْنَاكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنظُرُ الْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ الْكَافِرُ يَا لَيْتَنِي كُنتُ تُرَابًا
+🧠 Predicted : اِنمَاَغمَّا غُمَاَاَا هَرِي بَيِيغمَيَغُهُ لِللَغٌُومَا غ َامَنٌ سٌيََاهُ وَيَغغُولُ لِلٌكَافِعُ يَالينِه ضنٌُ ضُرَاضَا
+📉 WER       : 100.00%
+
+📊 Average WER for an-naba-ali hajaj: 115.42%
