@@ -1,0 +1,569 @@
+🎙️ Reciter: an-naba-ali jaber
+  0%|          | 0/40 [00:00<?, ?it/s]/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+You have passed language=ar, but also have set `forced_decoder_ids` to [[1, None], [2, 50360]] which creates a conflict. `forced_decoder_ids` will be ignored in favor of language=ar.
+  2%|▎         | 1/40 [01:08<44:23, 68.29s/it]
+📌 Ayah 1
+✅ Reference : عم يتساءلون
+🧠 Predicted :  عم يتساءلون
+📉 WER       : 0.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+  5%|▌         | 2/40 [01:53<34:41, 54.77s/it]
+📌 Ayah 2
+✅ Reference : عن النبأ العظيم
+🧠 Predicted :  عن النبأ العظيم
+📉 WER       : 0.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+  8%|▊         | 3/40 [02:39<31:17, 50.73s/it]
+📌 Ayah 3
+✅ Reference : الذي هم فيه مختلفون
+🧠 Predicted :  الذي هم فيه مختلفون
+📉 WER       : 0.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 10%|█         | 4/40 [03:24<29:00, 48.35s/it]
+📌 Ayah 4
+✅ Reference : كلا سيعلمون
+🧠 Predicted :  كلا سيعلمون
+📉 WER       : 0.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 12%|█▎        | 5/40 [04:11<28:03, 48.09s/it]
+📌 Ayah 5
+✅ Reference : ثم كلا سيعلمون
+🧠 Predicted :  ثم كلا سيعلمون
+📉 WER       : 0.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 15%|█▌        | 6/40 [05:02<27:46, 49.00s/it]
+📌 Ayah 6
+✅ Reference : ألم نجعل الأرض مهادًا
+🧠 Predicted :  ألم نجعل الأرض مهادا
+📉 WER       : 25.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 18%|█▊        | 7/40 [05:51<26:57, 49.00s/it]
+📌 Ayah 7
+✅ Reference : والجبال أوتادًا
+🧠 Predicted :  والجبال أوتادا
+📉 WER       : 50.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 20%|██        | 8/40 [06:39<25:56, 48.63s/it]
+📌 Ayah 8
+✅ Reference : وخلقناكم أزواجًا
+🧠 Predicted :  وخلقناكم أزواجا
+📉 WER       : 50.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 22%|██▎       | 9/40 [07:25<24:42, 47.84s/it]
+📌 Ayah 9
+✅ Reference : وجعلنا نومكم سباتًا
+🧠 Predicted :  وجعلنا نومكم سباتا
+📉 WER       : 33.33%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 25%|██▌       | 10/40 [08:14<24:04, 48.16s/it]
+📌 Ayah 10
+✅ Reference : وجعلنا الليل لباسًا
+🧠 Predicted :  وجعلنا الليل لباسا
+📉 WER       : 33.33%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 28%|██▊       | 11/40 [09:05<23:41, 49.02s/it]
+📌 Ayah 11
+✅ Reference : وجعلنا النهار معاشًا
+🧠 Predicted :  وَجَعَلْنَا النَّهَارَ مَعَاشًا
+📉 WER       : 100.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 30%|███       | 12/40 [09:51<22:30, 48.23s/it]
+📌 Ayah 12
+✅ Reference : وبنينا فوقكم سبعًا شدادًا
+🧠 Predicted :  وبنينا فوقكم سبعا شدادا
+📉 WER       : 50.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 32%|███▎      | 13/40 [10:37<21:19, 47.40s/it]
+📌 Ayah 13
+✅ Reference : وجعلنا سراجًا وهاجًا
+🧠 Predicted :  وجعلنا سراجا وهاجا
+📉 WER       : 66.67%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 35%|███▌      | 14/40 [11:24<20:29, 47.28s/it]
+📌 Ayah 14
+✅ Reference : وأنزلنا من المعصرات ماء ثجاجًا
+🧠 Predicted :  وأنزلنا من المحصرات ماء ثجاجا
+📉 WER       : 40.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 38%|███▊      | 15/40 [12:09<19:27, 46.68s/it]
+📌 Ayah 15
+✅ Reference : لنخرج به حبًا ونباتًا
+🧠 Predicted :  لنخرج به حبا ونباتا
+📉 WER       : 50.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 40%|████      | 16/40 [12:57<18:47, 46.98s/it]
+📌 Ayah 16
+✅ Reference : وجنات ألفافًا
+🧠 Predicted :  وجنات ألفافا
+📉 WER       : 50.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 42%|████▎     | 17/40 [13:42<17:48, 46.48s/it]
+📌 Ayah 17
+✅ Reference : إن يوم الفصل كان ميقاتًا
+🧠 Predicted :  إن يوم الفصل كان ميقاتا
+📉 WER       : 20.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 45%|████▌     | 18/40 [14:29<17:06, 46.64s/it]
+📌 Ayah 18
+✅ Reference : يوم ينفخ في الصور فتأتون أفواجًا
+🧠 Predicted :  يوم ينفخ في الصور فتأتون أفواجا
+📉 WER       : 16.67%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 48%|████▊     | 19/40 [15:15<16:13, 46.35s/it]
+📌 Ayah 19
+✅ Reference : وفتحت السماء فكانت أبوابًا
+🧠 Predicted :  وفتحت السماء فكانت أبوابا
+📉 WER       : 25.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 50%|█████     | 20/40 [16:01<15:25, 46.28s/it]
+📌 Ayah 20
+✅ Reference : وسيرت الجبال فكانت سرابًا
+🧠 Predicted :  وسيّرت الجبال فكانت سرابا
+📉 WER       : 50.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 52%|█████▎    | 21/40 [16:47<14:35, 46.08s/it]
+📌 Ayah 21
+✅ Reference : إن جهنم كانت مرصادًا
+🧠 Predicted :  إن جهنم كانت مرصادا
+📉 WER       : 25.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 55%|█████▌    | 22/40 [17:32<13:45, 45.87s/it]
+📌 Ayah 22
+✅ Reference : للطاغين مآبًا
+🧠 Predicted :  للطاغين مآبا
+📉 WER       : 50.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 57%|█████▊    | 23/40 [18:20<13:11, 46.57s/it]
+📌 Ayah 23
+✅ Reference : لابثين فيها أحقابًا
+🧠 Predicted :  لابثين فيها أحقابا
+📉 WER       : 33.33%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 60%|██████    | 24/40 [19:06<12:20, 46.31s/it]
+📌 Ayah 24
+✅ Reference : لا يذوقون فيها بردًا ولا شرابًا
+🧠 Predicted :  لا يذوقون فيها بردا ولا شرابا
+📉 WER       : 33.33%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 62%|██████▎   | 25/40 [19:52<11:33, 46.26s/it]
+📌 Ayah 25
+✅ Reference : إلا حميمًا وغساقًا
+🧠 Predicted :  إلا حميما وغساقا
+📉 WER       : 66.67%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 65%|██████▌   | 26/40 [20:37<10:42, 45.86s/it]
+📌 Ayah 26
+✅ Reference : جزاء وفاقًا
+🧠 Predicted :  جزاء وفاقا
+📉 WER       : 50.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 68%|██████▊   | 27/40 [21:24<09:59, 46.14s/it]
+📌 Ayah 27
+✅ Reference : إنهم كانوا لا يرجون حسابًا
+🧠 Predicted :  إنهم كانوا لا يرجون حسابا
+📉 WER       : 20.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 70%|███████   | 28/40 [22:09<09:10, 45.90s/it]
+📌 Ayah 28
+✅ Reference : وكذبوا بآياتنا كذابًا
+🧠 Predicted :  وكذبوا بآياتنا كذابا
+📉 WER       : 33.33%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 72%|███████▎  | 29/40 [22:56<08:28, 46.27s/it]
+📌 Ayah 29
+✅ Reference : وكل شيء أحصيناه كتابًا
+🧠 Predicted :  وكل شيء أحصيناه كتابا
+📉 WER       : 25.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 75%|███████▌  | 30/40 [23:44<07:47, 46.70s/it]
+📌 Ayah 30
+✅ Reference : فذوقوا فلن نزيدكم إلا عذابًا
+🧠 Predicted :  فاذوقوا فلن نزيدكم إلا عذابا
+📉 WER       : 40.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 78%|███████▊  | 31/40 [24:31<07:01, 46.86s/it]
+📌 Ayah 31
+✅ Reference : إن للمتقين مفازًا
+🧠 Predicted :  إن للمتقين مفازا
+📉 WER       : 33.33%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 80%|████████  | 32/40 [25:19<06:18, 47.29s/it]
+📌 Ayah 32
+✅ Reference : حدائق وأعنابًا
+🧠 Predicted :  حدائق وأعنابا
+📉 WER       : 50.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 82%|████████▎ | 33/40 [26:06<05:30, 47.16s/it]
+📌 Ayah 33
+✅ Reference : وكواعب أترابًا
+🧠 Predicted :  وكواعب أترابا
+📉 WER       : 50.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 85%|████████▌ | 34/40 [26:55<04:45, 47.59s/it]
+📌 Ayah 34
+✅ Reference : وكأسًا دهاقًا
+🧠 Predicted :  وكأساً دها قد
+📉 WER       : 150.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 88%|████████▊ | 35/40 [27:43<03:59, 47.84s/it]
+📌 Ayah 35
+✅ Reference : لا يسمعون فيها لغوًا ولا كذابًا
+🧠 Predicted :  لا يسمعون فيها لغوا ولا كذابا
+📉 WER       : 33.33%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 90%|█████████ | 36/40 [28:34<03:14, 48.71s/it]
+📌 Ayah 36
+✅ Reference : جزاء من ربك عطاء حسابًا
+🧠 Predicted :  جزاء من ربك عطاء حسابا
+📉 WER       : 20.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 92%|█████████▎| 37/40 [29:23<02:26, 48.89s/it]
+📌 Ayah 37
+✅ Reference : رب السماوات والأرض وما بينهما الرحمن لا يملكون منه خطابًا
+🧠 Predicted :  رب السماوات والأرض وما بينهما الرحمن لا يملكون منه خطابا
+📉 WER       : 10.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 95%|█████████▌| 38/40 [30:13<01:38, 49.20s/it]
+📌 Ayah 38
+✅ Reference : يوم يقوم الروح والملائكة صفًا لا يتكلمون إلا من أذن له الرحمن وقال صوابًا
+🧠 Predicted :  يوم يقوم الروح والملائكة صفا لا يتكلمون إلا من أذن له الرحمن وقال صوابا
+📉 WER       : 14.29%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 98%|█████████▊| 39/40 [31:02<00:48, 48.99s/it]
+📌 Ayah 39
+✅ Reference : ذلك اليوم الحق فمن شاء اتخذ إلى ربه مآبًا
+🧠 Predicted :  ذلك اليوم الحق فمن شاء اتخذ إلى ربه مآبا
+📉 WER       : 11.11%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+100%|██████████| 40/40 [31:51<00:00, 47.79s/it]
+
+📌 Ayah 40
+✅ Reference : إنا أنذرناكم عذابًا قريبًا يوم ينظر المرء ما قدمت يداه ويقول الكافر يا ليتني كنت ترابًا
+🧠 Predicted :  إنا أنذرناكم عذابا قريبا يوم ينظر المرء ما قدمت يداه ويقول الكافر يا ليتني كنت ترابا
+📉 WER       : 18.75%
+
+📊 Average WER for an-naba-ali jaber: 35.69%
+
+🎙️ Reciter: an-naba-ali hajaj
+  0%|          | 0/40 [00:00<?, ?it/s]/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+  2%|▎         | 1/40 [00:45<29:36, 45.55s/it]
+📌 Ayah 1
+✅ Reference : عم يتساءلون
+🧠 Predicted :  عما يتساءلون
+📉 WER       : 50.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+  5%|▌         | 2/40 [01:32<29:14, 46.17s/it]
+📌 Ayah 2
+✅ Reference : عن النبأ العظيم
+🧠 Predicted :  عن النبأ العظيم
+📉 WER       : 0.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+  8%|▊         | 3/40 [02:17<28:15, 45.82s/it]
+📌 Ayah 3
+✅ Reference : الذي هم فيه مختلفون
+🧠 Predicted :  الذي هم فيه مختلفون
+📉 WER       : 0.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 10%|█         | 4/40 [03:03<27:34, 45.96s/it]
+📌 Ayah 4
+✅ Reference : كلا سيعلمون
+🧠 Predicted :  كلا سيعلمون
+📉 WER       : 0.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 12%|█▎        | 5/40 [03:48<26:33, 45.53s/it]
+📌 Ayah 5
+✅ Reference : ثم كلا سيعلمون
+🧠 Predicted :  ثم كلا سيعلمون
+📉 WER       : 0.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 15%|█▌        | 6/40 [04:34<25:57, 45.82s/it]
+📌 Ayah 6
+✅ Reference : ألم نجعل الأرض مهادًا
+🧠 Predicted :  ألم نجعل الأرض مهادا
+📉 WER       : 25.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 18%|█▊        | 7/40 [05:20<25:05, 45.63s/it]
+📌 Ayah 7
+✅ Reference : والجبال أوتادًا
+🧠 Predicted :  والجبال أوتادا
+📉 WER       : 50.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 20%|██        | 8/40 [06:06<24:23, 45.75s/it]
+📌 Ayah 8
+✅ Reference : وخلقناكم أزواجًا
+🧠 Predicted :  وخلقناكم أزواجا
+📉 WER       : 50.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 22%|██▎       | 9/40 [06:51<23:35, 45.66s/it]
+📌 Ayah 9
+✅ Reference : وجعلنا نومكم سباتًا
+🧠 Predicted :  وجعلنا نومكم سباتا
+📉 WER       : 33.33%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 25%|██▌       | 10/40 [07:36<22:46, 45.55s/it]
+📌 Ayah 10
+✅ Reference : وجعلنا الليل لباسًا
+🧠 Predicted :  وجعلنا الليل لباسا
+📉 WER       : 33.33%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 28%|██▊       | 11/40 [08:22<22:04, 45.68s/it]
+📌 Ayah 11
+✅ Reference : وجعلنا النهار معاشًا
+🧠 Predicted :  وجعلنا النهار معاشا
+📉 WER       : 33.33%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 30%|███       | 12/40 [09:08<21:16, 45.59s/it]
+📌 Ayah 12
+✅ Reference : وبنينا فوقكم سبعًا شدادًا
+🧠 Predicted :  وبنينا فوقكم سبعا شدادا
+📉 WER       : 50.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 32%|███▎      | 13/40 [09:54<20:34, 45.72s/it]
+📌 Ayah 13
+✅ Reference : وجعلنا سراجًا وهاجًا
+🧠 Predicted :  وجعلنا سراجا وهاجا
+📉 WER       : 66.67%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 35%|███▌      | 14/40 [10:39<19:48, 45.72s/it]
+📌 Ayah 14
+✅ Reference : وأنزلنا من المعصرات ماء ثجاجًا
+🧠 Predicted :  وأنزلنا من المعصرات ماء ثجاجا
+📉 WER       : 20.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 38%|███▊      | 15/40 [11:26<19:08, 45.92s/it]
+📌 Ayah 15
+✅ Reference : لنخرج به حبًا ونباتًا
+🧠 Predicted :  لنخرج به حبا ونباتا
+📉 WER       : 50.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 40%|████      | 16/40 [12:11<18:14, 45.62s/it]
+📌 Ayah 16
+✅ Reference : وجنات ألفافًا
+🧠 Predicted :  وجنات ألفافا
+📉 WER       : 50.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 42%|████▎     | 17/40 [12:58<17:38, 46.02s/it]
+📌 Ayah 17
+✅ Reference : إن يوم الفصل كان ميقاتًا
+🧠 Predicted :  إن يوم الفصل كان ميقاتاً
+📉 WER       : 20.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 45%|████▌     | 18/40 [13:44<16:51, 45.99s/it]
+📌 Ayah 18
+✅ Reference : يوم ينفخ في الصور فتأتون أفواجًا
+🧠 Predicted :  يوم ينفخ في الصور فتأتون أفواجا
+📉 WER       : 16.67%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 48%|████▊     | 19/40 [14:30<16:05, 45.97s/it]
+📌 Ayah 19
+✅ Reference : وفتحت السماء فكانت أبوابًا
+🧠 Predicted :  وفتحت السماء فكانت أبوابا
+📉 WER       : 25.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 50%|█████     | 20/40 [15:16<15:21, 46.08s/it]
+📌 Ayah 20
+✅ Reference : وسيرت الجبال فكانت سرابًا
+🧠 Predicted :  وسيرت الجبال فكانت سرابا
+📉 WER       : 25.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 52%|█████▎    | 21/40 [16:01<14:30, 45.81s/it]
+📌 Ayah 21
+✅ Reference : إن جهنم كانت مرصادًا
+🧠 Predicted :  إن جهنم كانت مرصعدا
+📉 WER       : 25.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 55%|█████▌    | 22/40 [16:48<13:48, 46.01s/it]
+📌 Ayah 22
+✅ Reference : للطاغين مآبًا
+🧠 Predicted :  للطاغين مآبا
+📉 WER       : 50.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 57%|█████▊    | 23/40 [17:33<12:57, 45.73s/it]
+📌 Ayah 23
+✅ Reference : لابثين فيها أحقابًا
+🧠 Predicted :  لابثين فيها أحقابا
+📉 WER       : 33.33%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 60%|██████    | 24/40 [18:19<12:14, 45.90s/it]
+📌 Ayah 24
+✅ Reference : لا يذوقون فيها بردًا ولا شرابًا
+🧠 Predicted :  لا يذوقون فيها بغدا ولا شرابا
+📉 WER       : 33.33%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 62%|██████▎   | 25/40 [19:04<11:24, 45.63s/it]
+📌 Ayah 25
+✅ Reference : إلا حميمًا وغساقًا
+🧠 Predicted :  إلا حميما وغساقا
+📉 WER       : 66.67%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 65%|██████▌   | 26/40 [19:50<10:38, 45.62s/it]
+📌 Ayah 26
+✅ Reference : جزاء وفاقًا
+🧠 Predicted :  جزاء وفاقا
+📉 WER       : 50.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 68%|██████▊   | 27/40 [20:34<09:50, 45.40s/it]
+📌 Ayah 27
+✅ Reference : إنهم كانوا لا يرجون حسابًا
+🧠 Predicted :  إنهم كانوا لا يرجون حساباً
+📉 WER       : 20.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 70%|███████   | 28/40 [21:21<09:09, 45.76s/it]
+📌 Ayah 28
+✅ Reference : وكذبوا بآياتنا كذابًا
+🧠 Predicted :  وكذبوا بآياتنا كذابا
+📉 WER       : 33.33%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 72%|███████▎  | 29/40 [22:06<08:21, 45.63s/it]
+📌 Ayah 29
+✅ Reference : وكل شيء أحصيناه كتابًا
+🧠 Predicted :  وكل شيء أحصيناه كتابا
+📉 WER       : 25.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 75%|███████▌  | 30/40 [22:52<07:36, 45.64s/it]
+📌 Ayah 30
+✅ Reference : فذوقوا فلن نزيدكم إلا عذابًا
+🧠 Predicted :  فذوقوا فلم نزيدكم إلا عذابا
+📉 WER       : 40.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 78%|███████▊  | 31/40 [23:37<06:50, 45.56s/it]
+📌 Ayah 31
+✅ Reference : إن للمتقين مفازًا
+🧠 Predicted :  إنني المتقين مفازا
+📉 WER       : 100.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 80%|████████  | 32/40 [24:22<06:01, 45.24s/it]
+📌 Ayah 32
+✅ Reference : حدائق وأعنابًا
+🧠 Predicted :  حدائق وأعنابا
+📉 WER       : 50.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 82%|████████▎ | 33/40 [25:07<05:16, 45.21s/it]
+📌 Ayah 33
+✅ Reference : وكواعب أترابًا
+🧠 Predicted :  وكواعب أترابا
+📉 WER       : 50.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 85%|████████▌ | 34/40 [25:52<04:30, 45.03s/it]
+📌 Ayah 34
+✅ Reference : وكأسًا دهاقًا
+🧠 Predicted :  وكأسا بهاقا
+📉 WER       : 100.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 88%|████████▊ | 35/40 [26:37<03:46, 45.27s/it]
+📌 Ayah 35
+✅ Reference : لا يسمعون فيها لغوًا ولا كذابًا
+🧠 Predicted :  لا يسمعون فيها لغوا ولا كذابا
+📉 WER       : 33.33%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 90%|█████████ | 36/40 [27:23<03:01, 45.29s/it]
+📌 Ayah 36
+✅ Reference : جزاء من ربك عطاء حسابًا
+🧠 Predicted :  جزاء من ربك عطاء حسابا
+📉 WER       : 20.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 92%|█████████▎| 37/40 [28:10<02:17, 45.88s/it]
+📌 Ayah 37
+✅ Reference : رب السماوات والأرض وما بينهما الرحمن لا يملكون منه خطابًا
+🧠 Predicted :  رب السماوات والأرض وما بينهما الرحمن لا يملكون منه خطابا
+📉 WER       : 10.00%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 95%|█████████▌| 38/40 [28:58<01:32, 46.40s/it]
+📌 Ayah 38
+✅ Reference : يوم يقوم الروح والملائكة صفًا لا يتكلمون إلا من أذن له الرحمن وقال صوابًا
+🧠 Predicted :  يوم يقوم الروح والملائكة صفا لا يتكلمون إلا من أذن له الرحمن وقال صوابا
+📉 WER       : 14.29%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+ 98%|█████████▊| 39/40 [29:44<00:46, 46.45s/it]
+📌 Ayah 39
+✅ Reference : ذلك اليوم الحق فمن شاء اتخذ إلى ربه مآبًا
+🧠 Predicted :  ذلك اليوم الحق فمن شاء اتخذ إلى ربه مآبا
+📉 WER       : 11.11%
+/usr/local/lib/python3.11/dist-packages/transformers/models/whisper/generation_whisper.py:573: FutureWarning: The input name `inputs` is deprecated. Please make sure to use `input_features` instead.
+  warnings.warn(
+100%|██████████| 40/40 [30:34<00:00, 45.87s/it]
+📌 Ayah 40
+✅ Reference : إنا أنذرناكم عذابًا قريبًا يوم ينظر المرء ما قدمت يداه ويقول الكافر يا ليتني كنت ترابًا
+🧠 Predicted :  إنا أنذرناكم عذابا قريبا يوم ينظر المرء ما قدمت يداه ويقول الكافر يا ليتني كنت ترابا
+📉 WER       : 18.75%
+
+📊 Average WER for an-naba-ali hajaj: 34.56%
