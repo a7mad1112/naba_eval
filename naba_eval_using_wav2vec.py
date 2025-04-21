@@ -12,6 +12,7 @@ from transformers import pipeline
 from jiwer import wer
 from pydub import AudioSegment
 from tqdm import tqdm
+import time  # ⏱️ For timing
 
 # 🧠 Load ASR model
 device = 0 if torch.cuda.is_available() else -1
@@ -49,7 +50,7 @@ def transcribe_audio(file_path):
     text = result['text']
     return buckwalter_to_arabic(clean_buckwalter(text))
 
-# 📖 سورة النبأ كاملة (منقحة بدقة عالية حسب المصحف)
+# 📖 سورة النبأ كاملة مع التشكيل
 an_naba_verses = [
     "عَمَّ يَتَسَاءَلُونَ", "عَنِ النَّبَإِ الْعَظِيمِ", "الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ",
     "كَلَّا سَيَعْلَمُونَ", "ثُمَّ كَلَّا سَيَعْلَمُونَ", "أَلَمْ نَجْعَلِ الْأَرْضَ مِهَادًا",
@@ -70,19 +71,21 @@ an_naba_verses = [
     "إِنَّا أَنذَرْنَاكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنظُرُ الْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ الْكَافِرُ يَا لَيْتَنِي كُنتُ تُرَابًا"
 ]
 
-# 🧪 Main Evaluation
+# 🧪 Main Evaluation with Timing
 root_dir = "./an-naba"
 reciters = [d for d in os.listdir(root_dir) if os.path.isdir(os.path.join(root_dir, d)) and not d.startswith('.')]
+
+total_processing_time = 0  # ⌛ total time for all reciters
 
 for reciter in reciters:
     print(f"\n🎙️ Reciter: {reciter}")
     reciter_path = os.path.join(root_dir, reciter)
     total_wer = 0
 
+    reciter_start_time = time.time()  # ⏱️ Start reciter timer
+
     for i in tqdm(range(1, 41)):
-        print(f"Current working directory: {os.getcwd()}")
         file_path = os.path.join(reciter_path, f"{i}.mp3")
-        print(f"Accessing file: {file_path}")
         pred = transcribe_audio(file_path)
         ref = an_naba_verses[i - 1]
         score = wer(ref, pred)
@@ -93,6 +96,11 @@ for reciter in reciters:
         print(f"🧠 Predicted : {pred}")
         print(f"📉 WER       : {score:.2%}")
 
+    reciter_time = time.time() - reciter_start_time
+    total_processing_time += reciter_time
+
     avg_wer = total_wer / 40
     print(f"\n📊 Average WER for {reciter}: {avg_wer:.2%}")
+    print(f"⏱️ Time taken for {reciter}: {reciter_time:.2f} seconds")
 
+print(f"\n🧾 Total processing time for all reciters: {total_processing_time:.2f} seconds")
